@@ -1,0 +1,88 @@
+---
+title: "Project Planning Notes"
+date: 2020-02-08T16:29:13-08:00
+draft: true
+---
+
+## More Shared Knowledge on Projects
+- Include more people in code reviews even if they're not actively picking up development tasks -- this shares out knowledge of the changes and gets another set of eyes that can ask good questions
+- Break team silos, share knowledge
+- Do Team PR's for big PR's
+- Do team share of projects for tech projects, share knowledge
+- Team Collab!
+
+## Metrics/Monitoring/Data
+- Implement monitoring and error visibility to make it easier to debug problems down the road.
+- Data driven approach whenever we can to illustrate impact. 🤔 Maybe this can be something we start collection at the beginning and continue through out the project.
+- Data Driven the whole time
+    - highlighting impact
+- implement monitoring & debugging for every milestone, every deliverable
+
+## Testing & Tech Debt
+- Automated testing early in the process
+- Test Plan/Test Matrix up-front
+- Fix broken windows along the way
+    - broker time for tech debt
+
+## Status Update/Communication
+- Constant, detailed, concise status updates in channel -- this is particularly helpful when rolling new people on because you can say "please go back and read the content of the channel for the past week"
+- Frequent check-ins/deliverables
+- Customers/Users to consult with along the way
+- highlight risks early and often
+    - Clear Communication of Risks, Early & Often
+- Roll out plans
+- Disorganization from not knowing what work streams are in progress and who is working on what tasks
+- Clear Status Updates in Channel
+    - Nice for on-boarding new folks
+- clear comms, high vis
+
+## Kickoff & Milestones
+- Clear Milestones
+- Clear outline of project goals and milestones, this helps us fall back on the main objective when things get unorganized
+- Kick Off!
+    - Celebration, where we're going
+    - Outline what we want to build
+    - Why we're doing it
+    - Is how that important?
+    - What you're going to do is not that important
+- 🎉 Continue celebrating small wins!
+- More time to design, review, write tech specs
+    - there is no time to do this
+- Longer Pre-Planning timeline
+    - We need more time to pre-plan, design, etc
+- Clear Project Goals & Milestones
+    - when things get disorganized, what to do
+
+## Project Task Tracking Doc
+- Keeping a separate project doc that tracks tasks and stories, it can be a bit of a pain to manage and sometimes is a couple days out of date, but I've found it very helpful in keeping alignment on the work left to do for a project
+- Project tracking with tickets, i specially like the way Lauren creates them.
+- Breaking down tasks in a document outside of JIRA
+- too much breakdown of tasks?
+- Take into accounts bugs and broken windows you can fix along the way
+- Separate Project Doc
+    - keep track of tasks & stories
+- Project tracking with tickets
+- Don’t be too fine grained on certain tasks
+    - Things can be rough if clear. You don’t need a page long ticket for a one line change
+ Tech Specs / RFCs
+- Pre-planning for any project should begin much before the actual work
+    - Getting familiar with code base
+    - Setting up environment
+    - etc etc
+- Tech specs or brain storming sessions that involve the entire team in the design process.
+- Create a detailed design doc to iron out the implementation details
+    - no matter how small the feature/project is
+    - take them through the appropriate design reviews
+- RFCs
+    - Full RFC overview right before the official kick-off.
+    - could be an engineering focused project where we comb through assumptions and highlight any risks.
+    - This might also help with setting original expectations on delivery date
+
+## Swarming
+- Full Team Swarming
+- Single Developers on Projects
+- Attempting to breakdown work or introduce parallelism for projects that were not initially designed that way.
+- Figuring out work that can be done in parallel (planning for multiple developers)
+- Multiple developers on projects
+- Team collaboration is superb. Everyone jumps on board as required.
+- When we try to make parallel when things were not planned to be swarmed
