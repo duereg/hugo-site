@@ -4,126 +4,328 @@ defaultContentLanguage = 'en'
 enableEmoji = true
 languageCode = 'en-us'
 # Number of blog post per page
-paginate = 10
-theme = 'pico'
-# Title of the website is used for the meta tag title
-# and the square icon (not the favicon)
-title = 'A Place For Poor Examples'
+paginate = 3
+theme = "hugo-future-imperfect-slim"
+title = "A Place for Poor Examples"
+disqusShortname         = ""
+googleAnalytics         = ""
+pluralizeListTitles     = false
+disableLanguages        = []
+
+
+[markup.goldmark.renderer]
+  unsafe                = true
+
+[outputs]
+  home                  = ["html", "json", "rss"]
 
 [params]
-customCSS = [
-	"style/style.css",
-	"style/theme.sass",
-] # Path relative to assets folder
-customJS = ["js/console.js"] # Path relative to assets folder
-# Homepage description
-# For blog page description you can overwrite it
-# in the front matter
-description = "A Place For Poor Examples"
-favicon = '/icons/favicon.ico'
-# Dark mode support (default=false)
-darkMode = true
+  enableCDN             = false
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  highlightjs           = true
+  highlightjsTheme      = ""
+  highlightjsLang       = []
+  viewMorePostsLink     = "/blog/"
+  readingTime           = true
+  imageStretch          = ""
+  removeBlur            = false
+  socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+  hideEmptyStats        = false
 
-# Social parameters for contact_icons widget
-[[params.social]]
-alt = "email icon"
-icon = "/icons/email.svg"
-name = "email"
-url = "mailto:mail@example.com"
+  [params.meta]
+    description         = "I read that you learn more from a poor example than from a correct one. I don't believe this but that means my site will be a success."
+    author              = "Matt Blair"
+    favicon             = true
+    svg                 = true
+    faviconVersion      = "1"
+    msColor             = "#ffffff"
+    iOSColor            = "#ffffff"
 
-[[params.social]]
-alt = "github icon"
-blank = true
-icon = "/icons/github.svg"
-name = "github"
-url = "https://github.com/"
+  [params.header]
+    navbarTitle         = "A Place for Poor Examples"
+    dynamicTitles       = true
+    searchMenu          = true
+    shareMenu           = true
+    languageMenu        = true
 
-[[params.social]]
-alt = "medium icon"
-blank = true
-icon = "/icons/medium.svg"
-name = "medium"
-url = "https://medium.com/"
+  [params.intro]
+    header                = "A Place for Poor Examples"
+    paragraph             = "I read that you learn more from a poor example than from a correct one. I don't believe this but that means my site will be a success."
+    rssIntro              = true
+    socialIntro           = true
+    hideWhenSingleColumn  = false
+    alwaysOnHomepage      = false
 
-[[params.social]]
-alt = "stack-overflow icon"
-blank = true
-icon = "/icons/stack-overflow.svg"
-name = "stack-overflow"
-url = "https://stackoverflow.com/"
+    [params.intro.pic]
+      src                 = "icons/favicon.ico"
+      shape               = "circle"
+      width               = ""
+      alt                 = "A Place for Poor Examples"
 
-[[params.social]]
-alt = "twitter icon"
-blank = true
-icon = "/icons/twitter.svg"
-name = "twitter"
-url = "https://twitter.com/"
+  [params.sidebar]
+    about               = "This theme was developed for Hugo static site generator."
+    postAmount          = 5
+    categories          = true
+    categoriesByCount   = true
 
-[[params.social]]
-alt = "facebook icon"
-blank = true
-icon = "/icons/facebook.svg"
-name = "facebook"
-url = "https://facebook.com/"
+  [params.footer]
+    rssFooter           = true
+    socialFooter        = true
 
-# Navigation bar
+  [params.staticman]
+    enabled             = false
+    api                 = ""  # No Trailing Slash
+    gitProvider         = ""
+    username            = ""
+    repo                = ""
+    branch              = ""
+
+    [params.staticman.recaptcha]
+      siteKey           = ""
+      encryptedKey      = ""
+
 [menu]
 
-[[menu.main]]
-identifier = "home" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/"
-weight = 10
+  [[menu.main]]
+    name              = "Home"
+    identifier        = "home"
+    url               = "/"
+    pre               = "<i class='fa fa-home'></i>"
+    weight            = 1
 
-[[menu.main]]
-identifier = "blog" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/blog/"
-weight = 20
+  [[menu.main]]
+    name              = "About"
+    identifier        = "about"
+    url               = "/about/"
+    pre               = "<i class='far fa-id-card'></i>"
+    weight            = 2
 
-[[menu.main]]
-identifier = "contact" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/#contact"
-weight = 30
+  [[menu.main]]
+    name              = "Blog"
+    identifier        = "blog"
+    url               = "/blog/"
+    pre               = "<i class='far fa-newspaper'></i>"
+    weight            = 3
 
-# Syntax highlightning
-[markup.highlight]
-guessSyntax = true
-lineNumbersInTable = true
-noClasses = false # Set to false to use the Pico default theme.
-tabWidth = 2
+  [[menu.main]]
+    name              = "Categories"
+    identifier        = "categories"
+    url               = "/categories/"
+    pre               = "<i class='fas fa-sitemap'></i>"
+    weight            = 5
 
-[taxonomies]
-category = "categories"
-tag = "tags"
+  [[menu.main]]
+    name              = "Tags"
+    identifier        = "tags"
+    url               = "/tags/"
+    pre               = "<i class='fas fa-tag'></i>"
+    weight            = 5
 
-# Translation
-# English, French and Italian are supported but you can contribute
-# by adding translation to i18n/ folder.
-[languages.en]
-contentDir = 'content/en'
-languageCode = 'en'
-languageName = 'English'
-weight = 0
+  [[menu.main]]
+    name              = "Contact"
+    identifier        = "contact"
+    url               = "/contact/"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 6
 
-# Uncomment the following lines to add an italian translation.
+[Languages]
 
-# [languages.fr]
-# contentDir = 'content/fr'
-# languageCode = 'fr'
-# languageName = 'Français'
-# weight = 2
+  [Languages.en]
+    LanguageCode        = "en"
+    LanguageName        = "English"
+    weight              = 1
 
-# [languages.it]
-# contentDir = 'content/it'
-# languageCode = 'it'
-# languageName = 'Italiano'
-# weight = 3
+  [Languages.fr]
+    LanguageCode        = "fr"
+    LanguageName        = "Français"
+    title               = "A Place for Poor Examples"
+    weight              = 2
 
-# Uncomment the following lines to add an spanish translation.
-# [languages.es]
-# contentDir = 'content/es'
-# languageCode = 'es'
-# languageName = 'Español'
-# weight = 4
+    [[Languages.fr.menu.main]]
+      name              = "Accueil"
+      identifier        = "home"
+      url               = "/"
+      pre               = "<i class='fas fa-home'></i>"
+      weight            = 1
+
+    [[Languages.fr.menu.main]]
+      name              = "About"
+      identifier        = "about"
+      url               = "/about/"
+      pre               = "<i class='far fa-id-card'></i>"
+      weight            = 2
+
+    [[Languages.fr.menu.main]]
+      name              = "Blog"
+      identifier        = "blog"
+      url               = "/blog/"
+      pre               = "<i class='far fa-newspaper'></i>"
+      weight            = 3
+
+    [[Languages.fr.menu.main]]
+      name              = "Catégories"
+      identifier        = "categories"
+      url               = "/categories/"
+      pre               = "<i class='fas fa-sitemap'></i>"
+      weight            = 5
+
+    [[Languages.fr.menu.main]]
+      name              = "Contact"
+      identifier        = "contact"
+      url               = "/contact/"
+      pre               = "<i class='far fa-envelope'></i>"
+      weight            = 6
+
+  [Languages.pl]
+    LanguageCode        = "pl"
+    LanguageName        = "Polski"
+    title               = "A Place for Poor Examples"
+    weight              = 2
+
+    [[Languages.pl.menu.main]]
+      name              = "Home"
+      identifier        = "home"
+      url               = "/"
+      pre               = "<i class='fas fa-home'></i>"
+      weight            = 1
+
+    [[Languages.pl.menu.main]]
+      name              = "O mnie"
+      identifier        = "about"
+      url               = "/about/"
+      pre               = "<i class='far fa-id-card'></i>"
+      weight            = 2
+
+    [[Languages.pl.menu.main]]
+      name              = "Blog"
+      identifier        = "blog"
+      url               = "/blog/"
+      pre               = "<i class='far fa-newspaper'></i>"
+      weight            = 3
+
+    [[Languages.pl.menu.main]]
+      name              = "Kategorie"
+      identifier        = "categories"
+      url               = "/categories/"
+      pre               = "<i class='fas fa-sitemap'></i>"
+      weight            = 5
+
+    [[Languages.pl.menu.main]]
+      name              = "Kontakt"
+      identifier        = "contact"
+      url               = "/contact/"
+      pre               = "<i class='far fa-envelope'></i>"
+      weight            = 6
+
+  [Languages.pt]
+    LanguageCode        = "pt"
+    LanguageName        = "Português"
+    title               = "A Place for Poor Examples"
+    weight              = 4
+
+    [[Languages.pt.menu.main]]
+      name              = "Início"
+      identifier        = "home"
+      url               = "/"
+      pre               = "<i class='fas fa-home'></i>"
+      weight            = 1
+
+    [[Languages.pt.menu.main]]
+      name              = "Sobre"
+      identifier        = "about"
+      url               = "/about/"
+      pre               = "<i class='far fa-id-card'></i>"
+      weight            = 2
+
+    [[Languages.pt.menu.main]]
+      name              = "Blog"
+      identifier        = "blog"
+      url               = "/blog/"
+      pre               = "<i class='far fa-newspaper'></i>"
+      weight            = 3
+
+    [[Languages.pt.menu.main]]
+      name              = "Categorias"
+      identifier        = "categories"
+      url               = "/categories/"
+      pre               = "<i class='fas fa-sitemap'></i>"
+      weight            = 5
+
+    [[Languages.pt.menu.main]]
+      name              = "Contato"
+      identifier        = "contact"
+      url               = "/contact/"
+      pre               = "<i class='far fa-envelope'></i>"
+      weight            = 6
+
+  [Languages.de]
+    LanguageCode        = "de"
+    LanguageName        = "Deutsche"
+    weight              = 5
+
+  [Languages.es]
+    LanguageCode        = "es"
+    LanguageName        = "Española"
+    weight              = 6
+
+  [Languages.zh-CN]
+    LanguageCode        = "zh-CN"
+    LanguageName        = "中文"
+    weight              = 7
+
+  [Languages.zh-TW]
+    LanguageCode        = "zh-TW"
+    LanguageName        = "中文"
+    weight              = 8
+
+  [Languages.ja]
+    LanguageCode        = "ja"
+    LanguageName        = "日本語"
+    weight              = 9
+
+  [Languages.nl]
+    LanguageCode        = "nl"
+    LanguageName        = "Nederlands"
+    weight              = 10
+
+    [[Languages.nl.menu.main]]
+      name              = "Home"
+      identifier        = "home"
+      url               = "/"
+      pre               = "<i class='fas fa-home'></i>"
+      weight            = 1
+
+    [[Languages.nl.menu.main]]
+      name              = "Over"
+      identifier        = "about"
+      url               = "/about/"
+      pre               = "<i class='far fa-id-card'></i>"
+      weight            = 2
+
+    [[Languages.nl.menu.main]]
+      name              = "Blog"
+      identifier        = "blog"
+      url               = "/blog/"
+      pre               = "<i class='far fa-newspaper'></i>"
+      weight            = 3
+
+    [[Languages.nl.menu.main]]
+      name              = "Categorieën"
+      identifier        = "categories"
+      url               = "/categories/"
+      pre               = "<i class='fas fa-sitemap'></i>"
+      weight            = 5
+
+    [[Languages.nl.menu.main]]
+      name              = "Contact"
+      identifier        = "contact"
+      url               = "/contact/"
+      pre               = "<i class='far fa-envelope'></i>"
+      weight            = 6
+
+[social]
+  # Coding Communities
+  github                = "duereg"
+  # Professional/Business Oriented Communities
+  linkedin              = "mattblair"
