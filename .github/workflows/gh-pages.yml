@@ -30,8 +30,3 @@ jobs:
           publish_dir: ./public
           external_repository: duereg/duereg.github.io
           commit_message: ${{ github.event.head_commit.message }}
-
-- name: Setup Hugo
-  uses: peaceiris/actions-hugo@latest
-  with:
-    hugo-version: 'latest'
