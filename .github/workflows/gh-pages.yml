@@ -29,4 +29,3 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./public
           external_repository: duereg/duereg.github.io
-          commit_message: ${{ github.event.head_commit.message }}
