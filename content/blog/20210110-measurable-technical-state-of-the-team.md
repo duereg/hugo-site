@@ -53,7 +53,11 @@ Degrading Gracefully
 
 ## On-Call / Triage
 
-Everyone is on-call
+Everyone on the team is on-call
+
+Do you have a process for handling bugs / requests / questions?
+* Is there someone who reliably triages questions and concerns?
+* Is it one person, or a rotation of people?
 
 "Good" Runbooks
 * Can you actually fix problems from them?
@@ -63,6 +67,11 @@ Everyone is on-call
 
 Non-Noisy Alerts
 * Are your on-calls dreading their shifts because of pages day & night?
+
+Do you have a formal incident policy?
+* When do you work into the night vs work 9-5 until its over?
+* Do you have a formal incident review process once the incident is over?
+* Do you have a process to make sure incident remediation gets completed?
 
 Low Incident Rate
 
@@ -76,6 +85,8 @@ Code is easy to debug
 * Error messages that make sense?
 * Can you trace calls from start to finish through your systems?
 * Can you time calls from start to finish through your system?
+
+
 
 ## Testing / Tooling
 
