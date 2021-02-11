@@ -18,7 +18,7 @@ I started a new job 9 days before shelther in place, so I didn't have much time 
 ## Overshare (a bit)
 
 I'm a relatively private person. I don't like to talk about my personal life in group settings.
-However, to build trust with a group, (many studies)[https://hbr.org/2017/01/the-neuroscience-of-trust] have shown that showing trust in someone helps them to trust you.
+However, to build trust with a group, [many studies](https://hbr.org/2017/01/the-neuroscience-of-trust) have shown that showing trust in someone helps them to trust you.
 One way you can do this is by confiding small details about your life with them.
 
 Would you tell your teams that you and your partner had a fight? No. You don't want to overshare or make them uncomfortable.
@@ -44,7 +44,7 @@ A normal format I've been following that has worked for me, in a 30 minute 1/1:
 - 10 min: Whatever is on their agenda
 - 10 min: Whatever is on my agenda/requesting feedback/etc
 
-If you're looking for questions to ask, my co-worker (Cyriel Dikoume)[https://www.linkedin.com/in/cyriel-dikoume/] created this (great site)[https://1on1.fyi/#/] with 1:1 prompts if you ever get stuck with nothing to say or ask.
+If you're looking for questions to ask, my co-worker [Cyriel Dikoume](https://www.linkedin.com/in/cyriel-dikoume/) created this [great site](https://1on1.fyi/#/) with 1:1 prompts if you ever get stuck with nothing to say or ask.
 
 ## Make more time for them
 
