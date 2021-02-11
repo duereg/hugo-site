@@ -11,14 +11,13 @@ images: [{ alt: "Project Planning" , stretch: "Vertical" , src: "/img/remote-emp
 - Include more people in code reviews even if they're not actively picking up development tasks -- this shares out knowledge of the changes and gets another set of eyes that can ask good questions
 - Break team silos, share knowledge
 - Do Team PR's for big PR's
+  - Ideally break work into small pieces though
 - Do team share of projects for tech projects, share knowledge
 - Team Collab!
 
 ## Metrics/Monitoring/Data
 - Implement monitoring and error visibility to make it easier to debug problems down the road.
-- Data driven approach whenever we can to illustrate impact. 🤔 Maybe this can be something we start collection at the beginning and continue through out the project.
-- Data Driven the whole time
-    - highlighting impact
+- Data driven approach whenever we can to illustrate impact. This can be something we start collection at the beginning and continue through out the project.
 - implement monitoring & debugging for every milestone, every deliverable
 
 ## Testing & Tech Debt
@@ -26,6 +25,7 @@ images: [{ alt: "Project Planning" , stretch: "Vertical" , src: "/img/remote-emp
 - Test Plan/Test Matrix up-front
 - Fix broken windows along the way
     - broker time for tech debt
+    - broker time for related bugs in the backlog
 
 ## Status Update/Communication
 - Constant, detailed, concise status updates in channel -- this is particularly helpful when rolling new people on because you can say "please go back and read the content of the channel for the past week"
@@ -41,6 +41,7 @@ images: [{ alt: "Project Planning" , stretch: "Vertical" , src: "/img/remote-emp
 
 ## Kickoff & Milestones
 - Clear Milestones
+  - What is the smallest thing we can deliver to our customers/partners so they can validate our approach?
 - Clear outline of project goals and milestones, this helps us fall back on the main objective when things get unorganized
 - Kick Off!
     - Celebration, where we're going
@@ -49,22 +50,14 @@ images: [{ alt: "Project Planning" , stretch: "Vertical" , src: "/img/remote-emp
     - Is how that important?
     - What you're going to do is not that important
 - 🎉 Continue celebrating small wins!
-- More time to design, review, write tech specs
-    - there is no time to do this
-- Longer Pre-Planning timeline
-    - We need more time to pre-plan, design, etc
+- You need time devoted to design, review, write tech specs
+- You need time for fast-follow work that you uncover along the way
 - Clear Project Goals & Milestones
     - when things get disorganized, what to do
 
 ## Project Task Tracking Doc
-- Keeping a separate project doc that tracks tasks and stories, it can be a bit of a pain to manage and sometimes is a couple days out of date, but I've found it very helpful in keeping alignment on the work left to do for a project
-- Project tracking with tickets, i specially like the way Lauren creates them.
-- Breaking down tasks in a document outside of JIRA
-- too much breakdown of tasks?
+- Keeping a separate project doc that tracks tasks and stories. It can be a bit of a pain to manage and sometimes is a couple days out of date, but I've found it very helpful in keeping alignment on the work left to do for a project
 - Take into accounts bugs and broken windows you can fix along the way
-- Separate Project Doc
-    - keep track of tasks & stories
-- Project tracking with tickets
 - Don’t be too fine grained on certain tasks
     - Things can be rough if clear. You don’t need a page long ticket for a one line change
  Tech Specs / RFCs
@@ -82,10 +75,7 @@ images: [{ alt: "Project Planning" , stretch: "Vertical" , src: "/img/remote-emp
     - This might also help with setting original expectations on delivery date
 
 ## Swarming
-- Full Team Swarming
-- Single Developers on Projects
-- Attempting to breakdown work or introduce parallelism for projects that were not initially designed that way.
-- Figuring out work that can be done in parallel (planning for multiple developers)
-- Multiple developers on projects
-- Team collaboration is superb. Everyone jumps on board as required.
-- When we try to make parallel when things were not planned to be swarmed
+- Full Team Swarming has value
+- Reduce having single developers on projects
+- Attempting to breakdown work or introduce parallelism for projects that were not initially designed that way can cause problems.
+- Figure out in the design phase what work that can be done in parallel (planning for multiple developers)

@@ -21,8 +21,8 @@ Canary and/or staged releases to production
 * Having an "alpha" or "canary" production environment can save you a good deal of heartache
 
 Easy, well understood deployment process
-* Can you deploy and roll forward in 1 step?
-* Is it fast?
+* Can you deploy and roll back in 1 step?
+* Is it fast? Both the overall process and each individual step?
 
 ## Code Ownership & Quality
 
@@ -48,7 +48,7 @@ Well Documented Code
 Degrading Gracefully
 * Circuit Breakers
 * Rate Limiting
-* Retry-After on 429/503's
+* `Retry-After` on 429/503's
 * Can the services you rely on fail and you still return a useful response?
 
 ## On-Call / Triage
