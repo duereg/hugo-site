@@ -57,7 +57,7 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/headshot-2.png"
+      src                 = "img/headshot-4.png"
       shape               = "circle"
       width               = ""
       alt                 = "Matt Blair"

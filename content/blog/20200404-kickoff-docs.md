@@ -2,7 +2,7 @@
 title: "Kickoff Docs"
 date: 2020-03-03T14:07:39-08:00
 draft: false
-images: [{ alt: "Project Kickoff" , stretch: "Vertical" , src: "/img/project-kick-off-meetings.jpg" }]
+images: [{ alt: "Project Kickoff" , stretch: "Vertical" , src: "/img/project-kickoff.png" }]
 tags: ["Project Management", "Project Kickoff"]
 categories: ["management", "teaching", "learning", "growth", "development","classes"]
 ---
