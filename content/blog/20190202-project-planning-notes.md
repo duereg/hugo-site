@@ -1,9 +1,10 @@
 ---
 title: "Project Planning Notes"
-date: 2020-02-08T16:29:13-08:00
-draft: true
+date: 2019-02-08T16:29:13-08:00
+draft: false
 tags: ["Project Management", "Working Remote", "Remote Management", "Shelter In Place"]
 categories: ["management", "teaching", "learning", "growth", "development","classes","Work From Home", "WFH"]
+images: [{ alt: "Project Planning" , stretch: "Vertical" , src: "/img/remote-employee.jpg" }]
 ---
 
 ## More Shared Knowledge on Projects

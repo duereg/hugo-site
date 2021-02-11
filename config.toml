@@ -12,7 +12,6 @@ googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = []
 
-
 [markup.goldmark.renderer]
   unsafe                = true
 
@@ -50,7 +49,7 @@ disableLanguages        = []
     languageMenu        = true
 
   [params.intro]
-    header                = "A Place for Poor Examples"
+    header                = "Matt Blair"
     paragraph             = "I read that you learn more from a poor example than from a correct one. I don't believe this but that means my site will be a success."
     rssIntro              = true
     socialIntro           = true
@@ -58,10 +57,10 @@ disableLanguages        = []
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "icons/favicon.ico"
+      src                 = "img/headshot-2.png"
       shape               = "circle"
       width               = ""
-      alt                 = "A Place for Poor Examples"
+      alt                 = "Matt Blair"
 
   [params.sidebar]
     about               = "This theme was developed for Hugo static site generator."

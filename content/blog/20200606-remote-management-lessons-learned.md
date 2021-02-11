@@ -1,7 +1,7 @@
 ---
 title: "1:1's aren't enough in a SIP world"
 date: 2020-06-08T13:40:42-08:00
-draft: true
+draft: false
 images: [{ alt: "Shelter In Place", src: "/img/ShelterinPlace.jpg" }]
 tags: ["Project Management", "Working Remote", "Remote Management", "Shelter In Place"]
 categories: ["management", "teaching", "learning", "growth", "development","classes","Work From Home", "WFH"]
@@ -31,6 +31,22 @@ Some moments of vunerability to allow the team to get to know me, and hopefully 
 
 ## Be more prescriptive in getting to know them
 
+I found with my move to remote working that 1:1's, even once a week, wasn't enough to get to know my team on any appreciable level.
+
+So I had to be very prescriptive in my approach. Not only breaking up 1:1's into a format where I could "force" organic conversation.
+
+A normal format I've been following that has worked for me, in a 30 minute 1/1:
+
+10 min: Personal chit-chat
+10 min: Whatever is on their agenda
+10 min: Whatever is on my agenda/requesting feedback/etc
+
+If you're looking for questions to ask, my co-worker (Cyriel Dikoume)[https://www.linkedin.com/in/cyriel-dikoume/] created this (great site)[https://1on1.fyi/#/] with 1:1 prompts if you ever get stuck with nothing to say or ask.
+
 ## Make more time for them
 
+When with being prescriptive with your 1:1's, you might find that you still don't have enough time to cover everything you want in your 1:1's, such as career development for instance. If you find this is the case, schedule recurring time to talk about the specific issues that you find are getting short-changed. For me, I have a dedicated time for career development outside of my regular 1:1 time as I felt that wasn't getting the time and attention it deserved.
+
 ## Set reminders to yourself
+
+One last thing I've found useful: setting regular reminders to be human with your team. Whether that's thanking them for their work, checking in on their family and friends, or writing birthday cards or work anniversaries, it's nice to take the worry out of remembering to appreciate your team for the great work they're doing.
