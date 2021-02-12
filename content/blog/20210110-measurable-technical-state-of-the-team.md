@@ -1,5 +1,5 @@
 ---
-title: "Measurable Technical State of the Team"
+title: "Measure the Technical State of your Team"
 date: 2021-01-10T21:40:42-08:00
 draft: false
 images: [{ alt: "Technical Evaluation", src: "/img/evaluation.jpg" }]
@@ -7,7 +7,15 @@ tags: ["Project Management", "Management"]
 categories: ["management", "teaching", "learning", "growth", "development", "classes", "evaluation"]
 ---
 
-Some initial thoughts on how you could evaluate the state of the systems you could own. Put some of these criteria on the Y axis, and the name of the components you own on the X. Give everything a score from 1 to 0. Figure out which components need the most love.
+Some initial thoughts on how you could evaluate the state of the systems your team owns.
+
+One way to use this:
+* Put some of these criteria on the Y axis
+* Put the name of the components you own on the X.
+* Give everything a score from 1 to 0.
+* Either average the scores or sum them to figure out which components need the most love.
+
+If all of these are the same for everything you own, it might make sense to skip that section. For example, if you own 10 services, but they all use a common build pipeline that you don't maintain, it might make sense to skip that criteria.
 
 ## Builds:
 
@@ -49,7 +57,7 @@ Degrading Gracefully
 * Circuit Breakers
 * Rate Limiting
 * `Retry-After` on 429/503's
-* Can the services you rely on fail and you still return a useful response?
+* Can the services you rely on fail and would still return a useful response?
 
 ## On-Call / Triage
 
@@ -61,9 +69,11 @@ Do you have a process for handling bugs / requests / questions?
 
 "Good" Runbooks
 * Can you actually fix problems from them?
+* Do they cover most of the common errors your systems experience?
 
 "Good" Alerting
 * Do the alerts identity the issue and point towards resolution, or the tools to resolve?
+* When your alerts fire, does that cause an action, or do they frequently get ignored/silenced?
 
 Non-Noisy Alerts
 * Are your on-calls dreading their shifts because of pages day & night?
@@ -85,8 +95,6 @@ Code is easy to debug
 * Error messages that make sense?
 * Can you trace calls from start to finish through your systems?
 * Can you time calls from start to finish through your system?
-
-
 
 ## Testing / Tooling
 
