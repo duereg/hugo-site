@@ -7,7 +7,7 @@ tags: ["Project Management", "Management"]
 categories: ["management", "teaching", "learning", "growth", "development", "classes", "evaluation"]
 ---
 
-Some initial thoughts on how you could evaluate the state of the systems your team owns.
+Some thoughts on how you could evaluate the state of the systems your team owns.
 
 One way to use this:
 * Put some of these criteria on the Y axis
