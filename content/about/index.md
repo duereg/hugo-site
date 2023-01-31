@@ -3,6 +3,8 @@ title = "About Me"
 layout = "page"
 pageOrder = 1
 type = "blog"
+date = 2011-09-21
+created_gmt = "2011/09/21 10:10:06"
 +++
 
 My name is Matt Blair. Born in Virginia and now in the Bay Area. I write code during the day, play underwater hockey when I get a chance, and do other things occasionally.
