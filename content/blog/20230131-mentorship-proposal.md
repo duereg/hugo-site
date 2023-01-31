@@ -7,7 +7,7 @@ tags: ["Engineering Management", "Management", "Project", "Planning"]
 categories: ["management", "learning", "development", "Project", "Planning", "Performance"]
 ---
 
-Note: This is a compliment to the previous article I wrote about the Technical state of a Team, and explains the concepts in depth.
+Note: This is a compliment to the previous article I wrote about the [Technical state of a Team](http://blog.mattblair.co/blog/20210110-measurable-technical-state-of-the-team/), and explains the concepts in depth.
 
 # Technical State of the Team
 

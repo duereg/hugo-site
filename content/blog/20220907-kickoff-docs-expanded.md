@@ -7,7 +7,7 @@ tags: ["Engineering Management", "Management", "Project", "Planning"]
 categories: ["management", "learning", "development", "Project", "Planning", "Performance"]
 ---
 
-Note: this is an expansion on a previous article I wrote around kickoff docs.
+Note: this is an expansion on a previous article I wrote around [kickoff docs](http://blog.mattblair.co/blog/20200404-kickoff-docs/).
 
 <h3>Project Kickoff!</h3>
 
