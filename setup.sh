@@ -11,6 +11,7 @@ git init
 echo "Installing Pico theme : "
 echo "git submodule add https://github.com/negrel/hugo-theme-pico.git ./themes/pico"
 git submodule add https://github.com/negrel/hugo-theme-pico.git ./themes/pico
+git submodule add https://github.com/pacollins/hugo-future-imperfect-slim.git ./themes/hugo-future-imperfect-slim
 
 ./update.sh
 

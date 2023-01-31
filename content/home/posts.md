@@ -13,7 +13,7 @@ subtitle = "Read about my latest projects"
 
 [content]
 	# Page type to display. E.g. post, talk, or publication.
-	page_type = "blog"
+	page_type = "post"
 
 	# Choose how much pages you would like to display
 	count = 3

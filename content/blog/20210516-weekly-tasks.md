@@ -1,8 +1,8 @@
 ---
-title: "The weekly recurring tasks of an Engineering Manager"
-date: 2021-06-16T09:39:00-08:00
+title: "The schedule of an engineering manager"
+date: 2021-05-16T09:39:00-08:00
 draft: false
-images: [{ alt: "Incident Review", src: "/images/calendar-overview.jpg" }]
+images: [{ alt: "Incident Review", src: "/images/posts/calendar-overview.jpg" }]
 tags: ["Engineering Management", "Management", "Calendar", "Scheduling"]
 categories: ["management", "learning", "development", "Calendar", "Scheduling"]
 ---

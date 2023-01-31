@@ -4,7 +4,7 @@ defaultContentLanguage = 'en'
 enableEmoji = true
 languageCode = 'en-us'
 # Number of blog post per page
-paginate = 3
+paginate = 10
 theme = "hugo-future-imperfect-slim"
 title = "A Place for Poor Examples"
 disqusShortname         = ""
@@ -63,8 +63,8 @@ disableLanguages        = []
       alt                 = "Matt Blair"
 
   [params.sidebar]
-    about               = "This theme was developed for Hugo static site generator."
-    postAmount          = 5
+    about               = "This theme was developed for Hugo."
+    postAmount          = 3
     categories          = true
     categoriesByCount   = true
 
