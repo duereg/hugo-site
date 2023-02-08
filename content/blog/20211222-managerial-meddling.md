@@ -21,7 +21,7 @@ If I did not site some of these works here, or pulled quotes directly from them,
 
 # Managerial Meddling
 
-This is an example of negative leverage activity managers can engage in. This occurs when a supervisor uses with superior knowledge and experience (real or imagined) of a subordinate's responsibilities to assume command of a situation rather than letting the subordinate work things through themself.
+This is an example of a negative leverage activity managers can engage in. This occurs when a supervisor uses with superior knowledge and experience (real or imagined) of a subordinate's responsibilities to assume command of a situation rather than letting the subordinate work things through themself.
 
 The negative leverage produced comes from the fact that after being exposed to many such instances, the subordinate will begin to take a much more restricted view of what is expected of them, showing less initiative to solve their own problems, referring their problems instead to their supervisor.
 
