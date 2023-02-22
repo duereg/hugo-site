@@ -38,7 +38,11 @@ So as the developer is doing the work, they're baking in engineering excellence.
 The person reviewing their code has to check for the presence of the right kind of tests.
 Someone has to verify the new data being used by the button doesn't slow down the system.
 
-All of these are cultural things that slow down development slightly, but they leave with a durable foundation that really accelerates your development later on.
+All of these are cultural things that slow down development slightly, but they leave with a durable foundation that accelerates your development later on.
+
+While your engineering leadership should provide the standards you want to operate on, it gives the engineers working on the project the freedom to solve as they see fit. By promoting a set of engineering standards you've removed the need of your technical leaders to push forwards engineering excellence on every project. It is still your engineering leadership's responsibility to make sure the principals are enforced.
+
+Technical leadership can also contribute to the effort by tracking down all the bugs/issues/feature requests related to the new project at the beginning of the project planning, and making sure the most important of these are prioritized.
 
 This allows developers to drive the technical excellence of their products, by baking in their principals into their projects and their everyday practices.
 
