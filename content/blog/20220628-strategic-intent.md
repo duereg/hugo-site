@@ -37,15 +37,15 @@ Your answers here should be:
    * Fixing XXX means we’ll see a YYY success rate
    * You want measurements to be paired
       * A 99% success rate means you’re measuring both success and failure
-      * Response time is not a good metric if every response returns a 500
-         * Pair your measure with a quality measurement
+      * Response time is not a good metric if every response returns an error
+         * aka Pair your measure with a quality measurement
       * Any measurement is better than none, but the best measurements cover the output of the work, not the activity involved
 * Time-bound
    * This will take ZZZZZ months/sprints/whatever with VVVV engineers
 * Realistic
    * If your engineers say it will take ZZZ sprints, double that
    * Add in time for planning and testing
-      * How to plan a project
+      * [How to plan a project](https://blog.mattblair.co/blog/20221110-project-planning-checklist/)
    * State what you could do with more resources
       * If we increase the numbers of engineers by WWWW, we can reduce the time it takes to fix by UUUUU sprints
       * Also let folks know if increasing staffing won’t help the issue
