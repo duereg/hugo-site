@@ -3,7 +3,7 @@ title: Bad Performance Review
 date: 2023-04-02T17:31:07-08:00
 draft: true
 tags: ["Engineering Management", "Management", "Performance Review", "People Management", "Feedback"]
-categories: ["management", "learning", "development", "Performance Review"", "Feedback", "Performance"]
+categories: ["management", "learning", "development", "Performance Review", "Feedback", "Performance"]
 ---
 
 In a recent performance evaluation, Jane (name changed to protect the person involved) received negative feedback on her soft skills without any specific examples. Her manager only gave her general advice and insisted that as a senior, she "should know" what the issues were. Jane's peers had only mentioned that she was too direct in her communication and that she had conflicts with a mid-level peer who ignored her code review suggestions. Jane never complained to her manager about the conflicts, as she felt it was her responsibility to manage them. However, this negative evaluation came as a surprise to her, and now she has changed teams with a new manager who knows about the bad review.
