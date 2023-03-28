@@ -38,7 +38,7 @@ Your answers here should be:
    * You want measurements to be paired
       * A 99% success rate means you’re measuring both success and failure
       * Response time is not a good metric if every response returns an error
-         * aka Pair your measure with a quality measurement
+         * aka Pair your measurement with a quality measurement
       * Any measurement is better than none, but the best measurements cover the output of the work, not the activity involved
 * Time-bound
    * This will take ZZZZZ months/sprints/whatever with VVVV engineers
@@ -71,4 +71,4 @@ You have two options to meet your goals, especially if you’re struggling to de
    * Announce that you’re stopping any and all non-essential activities until you meet one of your goals.
    * Either of these will narrow the focus of the team and allow you to produce on the tasks you’re selected more quickly.
 
-These fixes, no matter what you choose, are slow. You’re fighting months or years of inaction. Conversely, the same thing that makes these fixes slow makes them extremely durable once they’re in effect.
+These changes to your process or organization structure, no matter what you choose, take time to enact. You’re fighting months or years of inaction. Conversely, the same thing that makes these changes slow to enact makes them extremely durable once they’re in effect.
