@@ -1,5 +1,6 @@
 ---
-title: "Managerial Meddling vs Situational Leadership"
+title: "Managerial Meddling"
+description: "The Negative Leverage Activity"
 date: 2021-12-22T15:34:06-08:00
 draft: false
 images: [{ alt: "Incident Review", src: "/img/situational-leadership-theory.png" }]
@@ -19,34 +20,26 @@ References:
 
 If I did not site some of these works here, or pulled quotes directly from them, forgive me.
 
-# Managerial Meddling
+## Managerial Meddling: The Negative Leverage Activity
 
-This is an example of a negative leverage activity managers can engage in. This occurs when a supervisor uses with superior knowledge and experience (real or imagined) of a subordinate's responsibilities to assume command of a situation rather than letting the subordinate work things through themself.
+In a corporate environment, a manager's role is critical, and the success of the team or the entire organization depends on how effectively they manage their employees. However, sometimes, even with the best intentions, a manager may engage in negative leverage activities that can have adverse effects on the team's output.
 
-The negative leverage produced comes from the fact that after being exposed to many such instances, the subordinate will begin to take a much more restricted view of what is expected of them, showing less initiative to solve their own problems, referring their problems instead to their supervisor.
+One example of such negative leverage activity is Managerial Meddling, where a supervisor uses their superior knowledge and experience (real or imagined) to assume command of a situation, rather than letting the subordinate work things through themselves. This behavior creates negative leverage as the subordinate, after being exposed to many such instances, will begin to take a much more restricted view of what is expected of them. They will show less initiative to solve their problems and will refer their problems to their supervisor, resulting in reduced output in the long run.
 
-The output of this manager’s organization will consequently be reduced in the long run.
+## Situational Leadership: High Managerial Productivity
 
-# Situational Leadership
+To increase the output of their teams, managers must engage in high-leverage tasks. One such task is training and mentoring employees. It allows managers to uplevel the skills of their team and build redundancy. If an employee is immature in a task, hands-on training is essential. If the employee is more mature, then the manager can delegate.
 
-What can managers do to increase the output of their teams?
+However, managers must remember that they are still responsible for the outcome of the task. Monitoring the task's progress is not meddling. If a manager has multiple tasks they could delegate, they should choose the one they're most familiar with. This might go against their emotional grain, but it's easier to monitor a task that a manager is familiar with than one that they're not.
 
-High managerial productivity depends largely on choosing to perform tasks to possess high leverage.
+Managers must not define their roles too narrowly. Effective managers are the glue in their team, filling any gaps. Sometimes that means doing things they don't want to do to set a good example.
 
-Training & mentoring your employees is a high-leverage task; it allows you to uplevel the skills of your team and builds in redundancy.
+## Managing Up vs. Down: Power Comes from Healthy Teams
 
-If an employee is immature in a task, then hands-on training is essential.
+Managers have two directions to manage: down and up. When managing down, it's essential not to build things that the team wants to build but the company or customers aren't interested in. Managers must ensure that their team is aligned with the company's goals and objectives.
 
-If the employee is more mature, then you can delegate.
+When managing up, managers must share their success with management to show the value their team brings to the organization. Sometimes managers focus so much on following their management's wishes that their team evaporates beneath them. However, sharing the success of the team can lead to increased recognition and support from higher management.
 
-Delegate, but remember; you are still responsible for the outcome of the task. Monitoring a task’s progress is not meddling. If you have multiple tasks you could delegate, choose the one you’re most familiar with. This might go against your emotional grain, but it’s easier to monitor a task you’re familiar with than one that you’re not.
+## Conclusion
 
-Don’t define your role too narrowly. Effective managers are the glue in their team, filling any gaps. Sometimes that means doing things you don’t want to do, in order to set a good example.
-
-# Managing Up vs Down
-
-## Managing Down
-Don’t build things your team wants to build but your company or your customers aren’t interested in.
-
-## Managing Up
-Power comes from healthy teams. Some managers focus so much on following their management’s wishes that their team evaporates beneath them. However, if you never share your success with management, all of our excellent work will go unnoticed.
+In conclusion, managers must engage in high-leverage tasks, avoid negative leverage activities, and manage both down and up to increase the output of their teams. By focusing on building healthy teams, aligning their team's goals with the organization's objectives, and sharing their success with management, managers can ensure the success of their teams and the entire organization.
