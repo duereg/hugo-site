@@ -30,9 +30,9 @@ I suggest starting by asking questions such as "What do we want to be known for?
 
 Finally, regularly revisit and update your team's strategic intent as circumstances change. The strategic intent should be a living document that guides the team's decision-making and helps it stay on track towards its long-term goals.
 
-# Writing out your Strategic Intent
+# Writing your Strategic Intent
 
-Use [SCQA](https://blog.mattblair.co/blog/20200909-pyramid-principle-inaction/) approach to lay out:
+Use [SCQA](https://blog.mattblair.co/blog/20200909-pyramid-principle-inaction/) to lay out:
 * The situation with the team
 * The conflict the team is facing
 * The question that naturally rises from the conflict
