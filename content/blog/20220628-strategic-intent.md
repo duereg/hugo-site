@@ -22,17 +22,28 @@ If I did not site some of these works here, or pulled quotes directly from them,
 # Define Strategic Intent
 Develop and communicate a compelling vision for what the organization will become. Outline a strategy for achieving that vision.
 
+Having a well-defined strategic intent helps your team focus their efforts, make better decisions, and stay ahead of their needs.
+
+Strategic intent is not the same as a mission statement or a set of goals. Instead, it should be a bold and inspiring statement of what the team aspires to achieve in the long term. The strategic intent should be broad enough to encompass multiple goals and strategies, but specific enough to provide guidance and direction.
+
+I suggest starting by asking questions such as "What do we want to be known for?" and "What do we want to accomplish in the next 6-12 months?". Once your strategic intent is defined, the team should be able to communicate it clearly to all employees and stakeholders.
+
+Finally, regularly revisit and update your team's strategic intent as circumstances change. The strategic intent should be a living document that guides the team's decision-making and helps it stay on track towards its long-term goals.
+
+# Writing out your Strategic Intent
+
 Use [SCQA](https://blog.mattblair.co/blog/20200909-pyramid-principle-inaction/) approach to lay out:
 * The situation with the team
 * The conflict the team is facing
-* The question that naturally raises
-* The answer to the question
-   * Your solution to get the team back on track
-   * These are your A-List goals for the team
+* The question that naturally rises from the conflict
+* The answer to solve the conflict/question facing your team
+   * Your solution to get the team back on track or producing effectively
+   * These are your A-list goals for the team
 
 Your answers here should be:
 * Specific
    * We’re going to fix XXX
+   * We're going to build XXX
 * Measurable
    * Fixing XXX means we’ll see a YYY success rate
    * You want measurements to be paired
@@ -51,6 +62,8 @@ Your answers here should be:
       * Also let folks know if increasing staffing won’t help the issue
    * Take into account holidays/vacations/on-call shifts when planning timelines
       * Build some slack into your scheduling!
+
+# Planning & Pitching
 
 You need to plan like the fire department plans. You cannot anticipate where the next fire will be, but you can shape an energetic and efficient team that is capable of responding to the unanticipated as well as ordinary events.
 
