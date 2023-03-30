@@ -19,6 +19,7 @@ I started a new job 9 days before shelther in place, so I didn't have much time 
 
 I'm a relatively private person. I don't like to talk about my personal life in group settings.
 However, to build trust with a group, [many studies](https://hbr.org/2017/01/the-neuroscience-of-trust) have shown that showing trust in someone helps them to trust you.
+
 One way you can do this is by confiding small details about your life with them.
 
 Would you tell your teams that you and your partner had a fight? No. You don't want to overshare or make them uncomfortable.
