@@ -1,6 +1,6 @@
 ---
 title: Understanding Velocity in Development Teams
-decription: Best Practices and Cautionary Tales
+description: Best Practices and Cautionary Tales
 date: 2020-11-02T17:31:07-08:00
 draft: false
 tags: ["Engineering Management", "Management", "Sprint", "Planning", "Velocity", "Agile", "Points", "Pointing"]
