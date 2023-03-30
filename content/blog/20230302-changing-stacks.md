@@ -1,5 +1,5 @@
 ---
-title: Moving between tech stacks
+title: Moving Between Tech Stacks
 description: How difficult is it?
 date: 2023-03-02T17:31:07-08:00
 draft: false
