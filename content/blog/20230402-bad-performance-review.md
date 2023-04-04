@@ -1,6 +1,6 @@
 ---
 title: Bad Performance Review
-date: 2023-04-02T17:31:07-08:00
+date: 2023-04-12T17:31:07-08:00
 draft: true
 tags: ["Engineering Management", "Management", "Performance Review", "People Management", "Feedback"]
 categories: ["management", "learning", "development", "Performance Review", "Feedback", "Performance"]
