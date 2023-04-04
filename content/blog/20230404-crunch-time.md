@@ -1,7 +1,6 @@
 ---
 title: Crunch Time
 date: 2023-04-04T17:31:07-08:00
-draft: false
 tags: ["Engineering Management", "Management", "Project", "Planning", "Tech Debt", "Technical Excellence"]
 categories: ["management", "learning", "development", "Project", "Planning", "Performance"]
 ---

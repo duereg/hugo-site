@@ -2,7 +2,6 @@
 title = "Working on Nike+ Importer for RunningAhead.com"
 link = "http://codetype.wordpress.com/2011/09/21/working-on-nike-importer-for-runningahead-com/"
 categories = ["engineering", "technical"]
-description = ""
 post_id = "24"
 date = 2011-09-21
 created_gmt = "2011/09/21 10:10:06"
