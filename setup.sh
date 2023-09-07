@@ -15,4 +15,4 @@ git submodule add https://github.com/pacollins/hugo-future-imperfect-slim.git ./
 
 ./update.sh
 
-hugo --gc --minify
+node_modules/.bin/hugo --gc --minify
