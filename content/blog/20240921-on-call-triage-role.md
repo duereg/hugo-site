@@ -1,6 +1,6 @@
 ---
 title: Setting up an on-call roll
-date: 2024-06-21T12:25:15-08:00
+date: 2024-09-21T12:25:15-08:00
 description: My lessons learned
 draft: false
 tags: ["Engineering Management", "Management", "Direct Reports", "on-call", "incident management"]

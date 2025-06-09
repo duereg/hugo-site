@@ -4,7 +4,7 @@ defaultContentLanguage = 'en'
 enableEmoji = true
 languageCode = 'en-us'
 # Number of blog post per page
-theme = "hugo-future-imperfect-slim"
+theme = "blowfish"
 title = "A Place for Poor Examples"
 disqusShortname         = ""
 googleAnalytics         = ""
