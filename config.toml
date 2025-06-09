@@ -4,7 +4,6 @@ defaultContentLanguage = 'en'
 enableEmoji = true
 languageCode = 'en-us'
 # Number of blog post per page
-paginate = 10
 theme = "hugo-future-imperfect-slim"
 title = "A Place for Poor Examples"
 disqusShortname         = ""
@@ -127,6 +126,8 @@ disableLanguages        = []
     LanguageCode        = "en"
     LanguageName        = "English"
     weight              = 1
+    [Languages.en.pagination]
+      pagerSize = 10
 
   [Languages.fr]
     LanguageCode        = "fr"
