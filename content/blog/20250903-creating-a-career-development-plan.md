@@ -1,7 +1,6 @@
 ---
 title: "A Framework for Engineering Career Development"
-date: 2025-07-03T12:00:00-04:00
-draft: true
+date: 2025-09-03T12:00:00-04:00
 categories:
   - engineering
   - culture
