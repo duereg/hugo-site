@@ -40,6 +40,8 @@ The forward's job when the other team has the puck is to backpick the other's te
 
 In the bottom left diagram, the right (weakside) forward’s job is to contain the puck on the left side of the play, making sure it does not swing in front of the goal.
 
+![HUGOIMG:GoalDefense2.gif|](/beginners-guide/GoalDefense1.gif)
+
 The forwards should try to maintain enough distance from the backs that they are in a good position to receive a pass. When a forward receives a pass or steals the puck in the defensive third of the pool, their first thought should be to go to a side wall of the pool. They should almost never bring the puck to the middle of the pool. If they encounter resistance going to the wall, surrender pool but maintain possession. Conservative, safe play which maintains possession in front of your goal is preferred to gaining some pool going towards the enemies goal but losing the puck.
 
 ### Backs
@@ -51,7 +53,8 @@ At least two of the three backs will be on the bottom defending the goal. The th
 If the weak side forward fails at containing the puck from being brought to center pool, then all three backs should be down trying to force the puck to go to one wall or the other.
 
 Once one of the backs regains possession they should then drive to the corner or the side wall, where their forwards should take the puck back up the pool.
-![HUGOIMG:GoalDefense2.gif|](/beginners-guide/GoalDefense1.gif)
+
+
 
 ## Positioning When Scoring A Goal
 
@@ -66,10 +69,6 @@ The Center Forward's job is to muscle and bash the puck into the goal. No Excuse
 ### Backs
 
 On an attempt at scoring a goal, two of the three backs should be down helping the forwards. The other back should be playing safety - way back, making sure any puck that escapes doesn't turn into a breakaway goal on the other end. Backs end up scoring a great deal of goals - when there is a fight at the goal, the three main options for scoring a goal should be the two backs and the center forward.
-
-##
-
-##
 
 ## Positioning On the Strike
 
@@ -93,12 +92,6 @@ Now, the Center Forward gets the puck, and starts to go to their left.
 
 As the Center Forward breaks to the left, the right forward surfaces as they are too far away from the play to get the puck. The Left Forward attempts to get wide and possibly ahead of the Center Forward (based off what the defense is doing) and get in good position for a pass. As the puck goes further to the left, the left back will follow the puck on the bottom to make sure the Center Forward does not quickly lose possession, and has an option for a back pass if they need it. The Right Back drops back into a support position and gets some air.
 
-###
-
-###
-
-###
-
 ### Positioning On an Equal Puck
 
 For minor or accidental infringements, or for any other reason the referee deems necessary, a referee may award an equal puck.
@@ -112,22 +105,6 @@ Notice that the backs are not lined up in a true seven formation. This is done t
 ![Notice how once the strong side back swims forward, the formation aligns itself.](/beginners-guide/EqualPuck2.gif)
 
 This closeness by the backs helps if the center forward does not establish possession of the puck. Now, both the center and strong side back will be right on the play, ready to shut down the opponent offense.
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
-##
 
 ## Positioning On an Advantage Puck
 
@@ -144,18 +121,6 @@ Notice how once the strong side back swims forward, the formation aligns itself.
 
 This closeness by the backs helps if the strong side back’s first pass is intercepted by the opposition team. Now, both the center and strong side back will be right on the play, ready to shut down the opponent’s offense.
 
-##
-
-##
-
-##
-
-##
-
-##
-
-##
-
 ## Positioning On a Penalty Shot
 
 ![PenaltyShot](/beginners-guide/PenaltyShot.gif)
@@ -167,5 +132,3 @@ A penalty shot is a two on one situation. The team with the penalty shot picks t
 The team on the defensive usually picks their best defensive player and lines them up to defend the goal attempt.
 
 The referee will indicate start of play and the penalty shot will continue until either the goal is scored or the defender can move the puck beyond the 3 meter goal area, signifying the goal was successfully defended.
-
-]({{< ref "09-scoring.md" >}})

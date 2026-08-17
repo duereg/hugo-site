@@ -33,6 +33,8 @@ If you are new to fin swimming, you should probably be conservative and get a pa
 
 ##  Sticks
 
+![Stick Diagram](/beginners-guide/img-000.png)
+
 Sticks are one-handed, and have a handiness (so they're either lefties or righties).
 
 There are several companies where you can buy sticks from. You can (if you're crafty) make your own. However, if you want a consistent, reliable stick, purchasing sticks is definitely the way to go.

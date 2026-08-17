@@ -10,8 +10,8 @@ comments: false
 
 The following shots would be considered a goal.
 
-![Legal goals](/beginners-guide/uwh-scoring-a.PNG)
+![Legal goals](/beginners-guide/img-038.png)
 
 The following shots would not be considered a goal.
 
-![Non-goals](/beginners-guide/uwh-scoring-b.PNG)
+![Non-goals](/beginners-guide/img-039.png)

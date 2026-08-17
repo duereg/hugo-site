@@ -12,9 +12,11 @@ comments: false
 ### Area of Responsibility
 
 Here are the areas each forward position plays in the 3-3 formation.
+
 ![LeftForward](/beginners-guide/LeftForward.gif)
 
 The area the left forward is responsible for is in front of the puck, either directly to the left or directly in front of the puck, within one passing distance. Please note that the left forward has no responsibilities on the right side of the puck. The person playing left forward should try to stay on the left side of the puck and should avoid ending up on the right side of the puck.
+
 ![CenterForward](/beginners-guide/CenterForward.gif)
 
 The area the center forward is responsible for is in front of the puck within one passing distance. The center forward has a lot of responsibility - and should be making a lot of drops. However, a smart center forward plays off of the left and right forwards so that they don't end up in the same spot as their teammates.
@@ -42,7 +44,7 @@ As the puck shifts to the side walls, this will mean that the weakside (non-side
 An illustration of bad positioning and good positioning is below.
 
 **An example of bad positioning **
-![HUGOIMG:GoodPassing2.gif|](/beginners-guide/BadPass2.gif)
+![Bad Pass Positioning](/beginners-guide/BadPass2.gif)
 
 Examine the two diagrams on the left. In the 1st diagram, the left and center forwards are shoulder to shoulder waiting for a pass. Their teammate with the puck, the Left Back, could pass to one of them, but there is a defender behind them. The defender is effectively defending both players. Bad situation for the passer.
 
@@ -71,9 +73,13 @@ Notice that there are at least two forwards on the bottom at all times. Forwards
 When the other team has the puck, it's the forward’s job to backpick (steal) the puck when it is in their zone. The forward should go down when their back stops the opponent with the puck, sandwich the opponent, and make sure they have no where to go. Rip the puck off their stick, and watch for your back to knock the puck out and over to you.
 An example of a back-picking scenario, occurring near the left wall:
 
+[BAD DOWNLOAD - NEED TO RETRY]
 ![backpick1](/beginners-guide/backpick1.png)
 
-A white forward, close by the play, is closing in on the play in an attempt to back pick.  ![backpick2](/beginners-guide/backpick2.png)
+A white forward, close by the play, is closing in on the play in an attempt to back pick.
+
+[BAD DOWNLOAD - NEED TO RETRY]
+![backpick2](/beginners-guide/backpick2.png)
 
 The keys for the white forward is that they are low to the bottom of the pool, anticipate the curl of the black player, and are position to defend the puck once they steal it. As soon as the black player with the puck begins their turn, the white forward steals the puck. As the puck is being stolen, the white player makes sure to get their body in between the black player and the puck. This prevents the black player from re-stealing the puck.
 
@@ -83,7 +89,11 @@ The keys for the white forward is that they are low to the bottom of the pool, a
 
 Here are some examples of how the backs should line up in a 3-3 formation
 
-![HUGOIMG:BacksOnRight.gif| HUGOIMG:BacksInMiddle.gif|](/beginners-guide/BacksOnLeft.gif)
+![Backs on the Right](/beginners-guide/BacksOnRight.gif)
+
+![Backs in the Middle](/beginners-guide/BacksInMiddle.gif)
+
+![Backs on the Left](/beginners-guide/BacksOnLeft.gif)
 
 In the 3-3 formation, backs line in up in what is called a "Seven" formation. The reason it's called a Seven formation is that it looks just like a seven when the right back has the puck:
 
@@ -92,6 +102,7 @@ The way to run this formation from the back's point of view:
 
 The strong side back (the back on the side of the puck) will be on the bottom helping keep the puck moving forward. The Center Back (or Swing Back) will be between the strong side back and the center of their goal on the surface. The weak side back will be between the swing back and the center of their goal on the surface.
 It is important in this formation that the strong side back does not allow the opposing team to beat them towards the wall side. All of the back's support is to the inside, and their closest help (the center back and center forward) is towards the center of the pool. If the strong side back loses the puck towards the wall, it is possible that the center back will not be able to close to the player, and then the play breaks down into a one on one with the weak side back and the opposing player. Not good.
+
 [Insert picture of breakdown when an opposing player gets around strong side back]
 
 ![SevenCenterBack](/beginners-guide/SevenCenterBack.gif)
@@ -107,6 +118,7 @@ If the puck should swing from one side to the other, it’s the weak and center 
 All of backs should be in a straight line between the puck, and the center of their own goal.
 
 ![HUGOIMG:SevenFormationLine.gif|  HUGOIMG:SevenLeftBackLine.gif|](/beginners-guide/BacksOnLeftLine.gif)
-If the strong side back looked back towards the center of his goal, he should see the swing back and weak side back in a perfect line towards the goal. Or, when the weak side back looks towards the strong side back, the swing back should be in a direct line between the two players.
+
+If the strong side back looked back towards the center of their goal, they should see the swing back and weak side back in a perfect line towards the goal. Or, when the weak side back looks towards the strong side back, the swing back should be in a direct line between the two players.
 
 Why do you do this? If an opposing player gets past the a back on the way to the goal, the other two backs are directly behind the back who was beaten, in line with the goal to defend next.

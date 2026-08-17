@@ -10,6 +10,7 @@ comments: false
 
 The pool is divided into 3 zones/thirds; defensive, mid and offensive.
 
+![BasicZones](/beginners-guide/img-014.png)
 ![DiamondZones](/beginners-guide/DiamondZones.gif)
 ![ZonePaths](/beginners-guide/ZonePaths.gif)
 
