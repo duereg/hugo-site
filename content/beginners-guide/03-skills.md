@@ -52,7 +52,7 @@ Swim a full lap underwater as slow as possible. Usually done is a set, with each
 
 ## Puck Handling
 
-_(Most of this content was stolen liberally from Roger Kemp’s Puck Handling Guide.)_
+_(Most of this content was stolen liberally from Roger Kemp’s Puck Handling Guide. An archive of this content is [here](https://pucku.org/tourist/indskil.html))_
 
 Puck handling – one of the most basic and important skills you can master as an underwater hockey player. If you cannot control the puck you cannot excel at hockey. Luckily, puck handling is a skill you do not need to be in the water to master.  With all the following drills, you can grab a puck or a tuna can and practice these drills in your living room. Practice these drills until you get to the point where you can master the movements without looking at the puck. It also helps to be laying flat over the puck while doing these drills, to simulate swimming underwater. Lie down on a stack of pillows, a bench, or something else to prop up your chest so you can hover over the puck and practice your stick work.
 
@@ -138,17 +138,15 @@ See a list of puck handling drills in this page: Training
 
 After mastering all the puck drills mentioned above, you should be able to swim with the puck on either the front or back of your stick, in front or behind your head, and on your left or right side. Moving the puck in relation to your opponents is vital to maintaining possession and advancing the puck. Let’s look at three examples where a player with the puck comes in contact with his opponent. In all three examples, assume both players are swimming at each other.
 
-[MISSING DIAGRAM]
+![Body position vs opponent: BAD, BETTER, and BEST](/beginners-guide/body-position-bad-better-best.png)
 
 In the first example, the player swims forward with his arm fully extended towards the opponent. There are very few cases when this is a good idea when going against an opponent. All you’re doing in limiting what you can do with the puck, and placing the puck closer to your opponent.
 
-[MISSING DIAGRAM]
-
 The second example, the player drops the puck back, and keeps going forward. This is better – the puck is farther away from your opponent, and because the player’s arm is bent, they can do more with the puck. When the opponent gets close, the player could extend their arm, and hope that the puck is now behind the opponent and out of their reach. The player could shoot it past their opponent, and hope someone is there to get the pass. However, the puck is still out in front and visible to the opponent.
 
-[MISSING DIAGRAM]
-
 The third example, the player drops the puck completely behind their shoulder, keeping the puck on the front of the blade, and turns their body slightly to shield the puck. The opponent now has to go over the player to get to the puck, as it is not directly in front on then, and the player’s body is in the way of any direct action. Also, any of the moves that were available in the second example are available here. The player could bring the puck forward by extended his arm when the opponent gets close. The player could attempt to shoot over the opponent. The player could keep their body in between the opponent and the puck and keep swimming.  This third example is especially valuable on the wall.
+
+![Shielding the puck on the wall](/beginners-guide/body-position-wall.png)
 
 The opponent cannot get to the puck from the right – the wall is in the way. If the player shields the puck from the front and left with their body, the only way the opponent can get to the puck is from the backside. The thing to learn from these examples is that you want to keep your body in between the puck and your opponent. If your opponent is on your left side, have the puck on your right. If your opponent is behind you, bring the puck in front of you.
 

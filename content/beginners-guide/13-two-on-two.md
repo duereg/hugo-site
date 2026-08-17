@@ -43,4 +43,4 @@ If you can do exactly what the defender is not anticipating, you have them half 
 
 What you need to figure out is how we are all going to know when an attempt at an open style play is over. When is it time to tighten it back up? Maybe just as simple as one open play at a time. If it works, great, if not, tighten it up _pronto_. Keep it tight until there is a decent looking opportunity to try another open play.
 
-*Note: Diagrams `uwh-2-2a.PNG` / `uwh-2-2b.PNG` from the original page were not available in the local archive at migration time.*
+*Note: Diagrams `uwh-2-2a.PNG` / `uwh-2-2b.PNG` were not in the PDF source manual (which predates those website illustrations) and remain unavailable.*

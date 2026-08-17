@@ -21,6 +21,8 @@ The most important thing is to get a snorkel with a soft mouthpiece so it doesn'
 
 Hand protection must not contain rigid or sharp reinforcing material. Gloves used for hand protection may not have webbing between fingers, or be of any design that would aid in swimming. Other than that, glove design is pretty flexible. You can make your own glove, or you can buy a glove from a bunch of different places. Most gloves are cloth layered with silicon rubber, but some people use nothing but electrical tape and other similar materials to create custom, lightweight gloves.
 
+![Example glove](/beginners-guide/glove.jpg)
+
 ## Fins
 
 If you are going to pick one area to spend the extra money and get quality gear this is it. There are lots of different makes and models of fins out there but many of them do not work for Underwater Hockey.  You definitely want to get full foot fins vs. the open heel scuba type. The short swimmer's fins and really long free diving fins are not good for underwater hockey.
@@ -35,4 +37,4 @@ Sticks are one-handed, and have a handiness (so they're either lefties or righti
 
 There are several companies where you can buy sticks from. You can (if you're crafty) make your own. However, if you want a consistent, reliable stick, purchasing sticks is definitely the way to go.
 
-**![Underwater Hockey Sticks](/beginners-guide/sticks.webp)
+![Underwater Hockey Sticks](/beginners-guide/sticks.webp)

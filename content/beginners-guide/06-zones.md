@@ -7,7 +7,6 @@ aliases:
 type: "beginners-guide"
 comments: false
 ---
-![VerticalZones](/beginners-guide/VerticalZones.gif)
 
 The pool is divided into 3 zones/thirds; defensive, mid and offensive.
 

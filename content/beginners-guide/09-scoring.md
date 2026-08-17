@@ -10,8 +10,8 @@ comments: false
 
 The following shots would be considered a goal.
 
-*Diagrams showing legal goals (`uwh-scoring-a.PNG`) were not present in the local archive and could not be recovered from the Wayback Machine at migration time.*
+![Legal goals](/beginners-guide/uwh-scoring-a.PNG)
 
 The following shots would not be considered a goal.
 
-*Diagrams showing non-goals (`uwh-scoring-b.PNG`) were similarly unavailable during migration.*
+![Non-goals](/beginners-guide/uwh-scoring-b.PNG)
