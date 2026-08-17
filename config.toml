@@ -30,6 +30,7 @@ disableLanguages        = []
   removeBlur            = false
   socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
   hideEmptyStats        = false
+  mainSections          = ["blog"]
 
   [params.meta]
     description         = "I read that you learn more from a poor example than from a correct one. I don't believe this but that means my site will be a success."
@@ -105,6 +106,13 @@ disableLanguages        = []
     url               = "/blog/"
     pre               = "<i class='far fa-newspaper'></i>"
     weight            = 3
+
+  [[menu.main]]
+    name              = "Beginner's Guide"
+    identifier        = "beginners-guide"
+    url               = "/beginners-guide/"
+    pre               = "<i class='fas fa-book'></i>"
+    weight            = 4
 
   [[menu.main]]
     name              = "Categories"
