@@ -21,6 +21,8 @@ Forwards should always be ahead of the puck. Their job is to accept passes from 
 
 In front of the goal, forwards should take longer drops to ensure the puck is put into the goal.
 
+Where to sit in a 3-3: [Forwards in the 3-3]({{< ref "07-positioning.md" >}}).
+
 ### Proper Striking Technique
 
 As explained further in [Scenario Alignment in 3-3 Formation]({{< ref "08-positioning-by-scenario.md" >}}#TOC-Positioning-On-the-Strike), the Strike is the most dynamic moment of the game. The team that gains the Strike is at an immediate advantage, the Striker should therefore make every effort to win it. Winning the Strike is very simple: it means getting there first. To get there first, the Striker uses the shortest path to his destination: a straight line.
@@ -48,3 +50,5 @@ When a Back's teammate has the puck the back should be close enough to that play
 Some backs hang far behind the play; they see their only responsibly as stopping the other team's offense and so position themselves at a safe distance from the play to do so.
 This style of play leads to a separation between the players in the formation and removes one of the safest ways of maintaining possession - a pass from one player to another. If the back is only thinking defensively, they can't be in position to accept a safe pass from one of their own players.
 Backs usually don’t have the same amount of subs as the other positions, so it is vital for backs to be efficient with their drops. They should drop only when they need to. Once a back drops they should swim into the play and come out with the puck. They shouldn't waste air and energy floating around on the bottom, waiting for opponent’s forwards to break out of a pack. They should swim into the pack, take the puck from the opponent’s forward, and swim out. If a back can’t get the puck back, they should at least disrupt what the other team is doing and slow down the other team's advance. Even though a Back has defensive responsibilities, they should play the position aggressively. They should dictate what the opponent can do.
+
+Where to sit in a 3-3: [Backs in the 3-3]({{< ref "07b-backs-in-the-3-3.md" >}}).

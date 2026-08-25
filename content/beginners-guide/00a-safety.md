@@ -38,10 +38,8 @@ Accidental contact happens. Wear a cap with ear protection.
 
 If you experience headache, dizziness, nausea, confusion, or vision problems after a knock: get out, skip the rest of the session, and get checked.
 
-## Injuries and near misses
-
-Tell a coach. Early stop beats a worse injury.
-
 ## Further reading
 
-[Atlantis Sports Safety](https://wiki.atlantissports.org/Safety). [Water skills](https://wiki.atlantissports.org/getting-started/new-player/water-skills) (mask clearing, snorkel recovery).
+[Atlantis Sports Safety](https://wiki.atlantissports.org/Safety).
+
+[Water skills](https://wiki.atlantissports.org/getting-started/new-player/water-skills) (mask clearing, snorkel recovery).

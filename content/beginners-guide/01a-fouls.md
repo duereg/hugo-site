@@ -5,9 +5,11 @@ slug: "fouls"
 type: "beginners-guide"
 comments: false
 ---
-[Rules]({{< ref "01-rules.md" >}}) is the short list. Foul names you will hear, and what they look like underwater:
+[Rules]({{< ref "01-rules.md" >}}) is the short list. This is the more comprehensive list of fouls you will see, and what they look like underwater:
 
-Refs often play **advantage**: if the foul did not help the offending team, play continues. Unclear call? Ask the ref after the game.
+Refs often play **advantage**: if the foul did not help the offending team, the refs do not stop play, and play continues.
+
+Unclear call? Ask the ref after the game.
 
 [CMAS Vol. 2 — Rules of Play](https://www.cmas.org/document?sessionId=&fileId=5287&language=1). [Atlantis Sports — Fouls](https://wiki.atlantissports.org/game/fouls).
 
