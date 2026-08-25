@@ -7,46 +7,54 @@ aliases:
 type: "beginners-guide"
 comments: false
 ---
-If there is a time when the puck is in a position where you should play it but you’re too winded to hold your breath and go back down to the bottom, you should _sub out_ \-- substitute a fresh player in the water. This is especially important around your goal. The sub box is right by your goal – make long, hard drops, and sub out (maybe emerging directly into the box). No need to make many short drops when you’re swimming right next to your waiting sub. Forwards will need to sub more often than backs – in most tournaments, the forwards get more subs than the backs just for this reason. Respond to having the extra sub by playing hard when you’re in the water and subbing out quickly.
+If the puck is where you should play it but you are too winded to get back down, **sub out**. Especially important around your own goal.
 
-At back, when another back subs out, play it safe. Don’t try anything risky until your team is back at full strength. Work the puck to the wall, throw it in the corner, and hang back a little farther. Be conservative, especially if you’re the last man back on a play. Let the other team eat up a little pool, but keep them from getting a sure shot at the goal.
+The sub box is a designated area for players who aren't currently playing to rest and wait their turn to rejoin the action. You should make a series of drops while you play, then come up into the box when you cannot keep up the pace.
 
-A great strategy when your team is playing in your defensive zone is to push the puck to the wall next to the sub box. This allows each player to completely exert him or herself, then sub out quickly and get a fresh player back on the puck.
+No need for a string of ineffective or missed drops when your replacement is already waiting. Typically forwards sub more than backs; most tournaments give forwards the extra bodies for that reason.
 
-When the puck is around your opponent’s goal, be a little more hesitant to sub out. You are the farthest away from your sub box when you’re at your opponent’s goal. If you sub out in front of their goal, you’re taking a person out of the play for an extended period of time (the time it takes you to swim back, and the time it takes your sub to swim in). Save the energy you would spend swimming back and help your team score a goal, then sub out afterwords.
+Play hard in the water, then get out.
 
-To summarize: **sub right, sub fast, sub often**.
+When another back subs out, stay conservative until you are six again. Work the puck to the wall or corner. Hang back a little. Give pool if you must; do not give up a free look at the goal.
 
-### Sub Right: Honor the Rules, or Suffer the Consequences
+In your defensive zone, driving the puck to the wall by the sub box makes it easier for tired players to sub out and fresh players to join the game.
 
-  * There must always be 6 players in the game (unless a penalty is in effect, see below, or in between points).
-  * On your way out of the game, on your way in to the sub box, your snorkel must surface inside the box before your sub can leave the box and enter the game.
-  * Some mixed games require a specific man/woman balance be kept at all times: figure out your strategy beforehand. E.g. there must be always 3 women in the game.
+Near their goal, hesitate. You are farthest from your box. Subbing there pulls you out for a (long) swim home and your sub’s swim in. Spend that air helping score, then rotate after.
 
-  * Incorrect subbing is a foul and will impact your team: typically, a player gets taken out of the game for 2 minutes.
-    * As a deck ref, it's very easy to spot a bad substitution: 7 players in the water, or your sub didn't wait long enough, or... Don't get caught making such a silly mistake!
+Summary: **sub right, sub fast, sub often**.
 
-### Sub Fast: Be Ready
+### Sub Right
 
-  * Sub out when close to the box.
-    * Don't swim all the way back to the box when you're way out there near the opponent's goal. Your replacement is going to have to swim all the way there too!
-    * Defenders: emerge directly into the box after defending your goal, without resurfacing.
-  * While swimming back to the box: use hand signals to indicate which position you're subbing out of:
-    * Closed fist means _near,_ open hand means _far_ , two fingers: _center_ or _mid_
+Full roster (ten players): **six** in play, **four** in the sub box. Heads in the box must be visible to the chief ref.
 
-    * With sub box on the right: near is right, far is left.
-  * While in the box: pay attention to the game, watch for players swimming towards you, signalling which position they're in. Be ready to go: repeat the hand signal back to them, but wait for their snorkel to breach.
+Your snorkel must break the surface **inside** the box before your replacement leaves. Exception between points (after a goal), at half-time, and during team timeouts: replacements can leave without waiting for you in the box. Still signal the position as you pass.
 
-### Sub Often: Share the Fun
+Too many in the pool, or a replacement leaving early: [illegal substitution]({{< ref "01a-fouls.md" >}}). Expect a time penalty (often one minute). Deck refs catch this easily. Do not gift it.
 
-  * You can sub at anytime during the play, and game breaks are particularly well-suited.
+Short roster? Tell the chief ref before the game so they do not assume you should still have four heads in the box.
 
-    * Sub whenever the play is stopped: foul called, goal scored, etc.
-    * _On goal scored_ , i.e. in between points _,_ your replacement can leave the box without waiting for you to be in it.
-    * Make sure you signal your position (far/near/center) when you pass each other.
+### Sub Fast
 
-  * Leverage your subs:
-    * Feeling winded, can't stay down anymore? Sub out.
-    * Legs feeling heavy? Sub out.
-    * Can't catch your breath? Sub out.
-    * In over your head? Want to watch the game instead of getting killed? Sub out, 'scool.
+Sub when you are near the box. Do not swim the length of the pool just to tag in; your replacement has to swim it too.
+
+Defenders: after a goal fight, surface straight into the box when you can.
+
+Swimming back, signal the position you are leaving:
+
+- Closed fist: near wall
+- Open hand: far wall
+- Two fingers: center / mid
+
+With the box on your right: near is right, far is left.
+
+In the box: watch the play, watch swimmers coming in, mirror their signal, wait for their snorkel to breach, then go.
+
+### Sub Often
+
+You can (and should) sub during live play. Stoppage of any kind (foul, goal, and so on) are a prime time to sub.
+
+Between points, your replacement can leave without you in the box; still call the position as you cross.
+
+Winded, heavy legs, cannot get a breath, or overmatched? Sub. That is the job of the bench.
+
+More protocol detail: [Atlantis — Substitutions](https://wiki.atlantissports.org/game/protocols/substitutions).
