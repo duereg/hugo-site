@@ -1,6 +1,6 @@
 ---
 title: "Safety"
-weight: 1.5
+weight: 20
 slug: "safety"
 type: "beginners-guide"
 comments: false

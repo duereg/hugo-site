@@ -1,6 +1,6 @@
 ---
 title: "Backs in the 3-3"
-weight: 10
+weight: 130
 slug: "backs-in-the-3-3"
 aliases:
   - "/uwh-beginner-guide/positioning/backs-in-the-3-3"

@@ -1,6 +1,6 @@
 ---
 title: "Underwater Hockey Positions"
-weight: 5
+weight: 80
 slug: "positions"
 aliases:
   - "/uwh-beginner-guide/positions"

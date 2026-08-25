@@ -1,6 +1,6 @@
 ---
 title: "Cycling and Breakaways"
-weight: 14
+weight: 180
 slug: "cycling-breakaways"
 aliases:
   - "/uwh-beginner-guide/cycling-breakaways"

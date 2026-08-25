@@ -1,6 +1,6 @@
 ---
 title: "Underwater Hockey Formations"
-weight: 6
+weight: 90
 slug: "formations"
 aliases:
   - "/uwh-beginner-guide/formations"

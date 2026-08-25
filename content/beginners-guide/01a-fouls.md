@@ -1,6 +1,6 @@
 ---
 title: "Fouls"
-weight: 2.5
+weight: 40
 slug: "fouls"
 type: "beginners-guide"
 comments: false

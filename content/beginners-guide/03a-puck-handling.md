@@ -1,6 +1,6 @@
 ---
 title: "Puck Handling"
-weight: 4.5
+weight: 70
 slug: "puck-handling"
 aliases:
   - "/uwh-beginner-guide/skills/puck-handling"

@@ -1,6 +1,6 @@
 ---
 title: "How to Execute in a Two-on-Two Situation"
-weight: 16
+weight: 210
 slug: "2-2"
 aliases:
   - "/uwh-beginner-guide/2-2"

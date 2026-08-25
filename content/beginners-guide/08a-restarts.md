@@ -1,6 +1,6 @@
 ---
 title: "Restarts and Protocols"
-weight: 11.5
+weight: 150
 slug: "restarts"
 type: "beginners-guide"
 comments: false

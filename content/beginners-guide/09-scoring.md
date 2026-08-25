@@ -1,6 +1,6 @@
 ---
 title: "Scoring a Goal"
-weight: 12
+weight: 160
 slug: "scoring"
 aliases:
   - "/uwh-beginner-guide/scoring"

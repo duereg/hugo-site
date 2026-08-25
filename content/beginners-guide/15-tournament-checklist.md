@@ -1,6 +1,6 @@
 ---
 title: "Tournament Checklist"
-weight: 18
+weight: 230
 slug: "tournament-checklist"
 aliases:
   - "/uwh-beginner-guide/tournament-checklist"

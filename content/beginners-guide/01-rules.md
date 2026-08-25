@@ -1,6 +1,6 @@
 ---
 title: "Rules"
-weight: 2
+weight: 30
 slug: "rules"
 aliases:
   - "/uwh-beginner-guide/rules"

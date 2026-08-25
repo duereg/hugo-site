@@ -1,6 +1,6 @@
 ---
 title: "Practice Drills"
-weight: 19
+weight: 240
 slug: "practice-drills"
 type: "beginners-guide"
 comments: false

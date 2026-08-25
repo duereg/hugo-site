@@ -1,6 +1,6 @@
 ---
 title: "Underwater Hockey Zones"
-weight: 7
+weight: 100
 slug: "zones"
 aliases:
   - "/uwh-beginner-guide/zones"

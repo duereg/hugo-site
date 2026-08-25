@@ -1,6 +1,6 @@
 ---
 title: "Fitness"
-weight: 4
+weight: 60
 slug: "fitness"
 aliases:
   - "/beginners-guide/skills"

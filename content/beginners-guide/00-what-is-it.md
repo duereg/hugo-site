@@ -1,6 +1,6 @@
 ---
 title: "What is Underwater Hockey?"
-weight: 1
+weight: 10
 slug: "what-is-it"
 aliases:
   - "/uwh-beginner-guide/what-is-it"

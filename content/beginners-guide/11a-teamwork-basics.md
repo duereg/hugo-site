@@ -1,6 +1,6 @@
 ---
 title: "Swings"
-weight: 14.5
+weight: 190
 slug: "swings"
 aliases:
   - "/beginners-guide/teamwork"

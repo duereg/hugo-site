@@ -1,6 +1,6 @@
 ---
 title: "Scenario Alignment In The 3-3 Formation"
-weight: 11
+weight: 140
 slug: "positioning-by-scenario"
 aliases:
   - "/uwh-beginner-guide/positioning-by-scenario"

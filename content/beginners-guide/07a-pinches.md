@@ -1,6 +1,6 @@
 ---
 title: "Pinches (Backpicks)"
-weight: 9
+weight: 120
 slug: "pinches"
 aliases:
   - "/beginners-guide/forward-defense"

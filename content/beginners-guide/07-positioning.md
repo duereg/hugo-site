@@ -1,6 +1,6 @@
 ---
 title: "Forwards in the 3-3"
-weight: 8
+weight: 110
 slug: "forwards-in-the-3-3"
 aliases:
   - "/beginners-guide/positioning"

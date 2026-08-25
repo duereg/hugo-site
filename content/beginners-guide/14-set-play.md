@@ -1,6 +1,6 @@
 ---
 title: "Set Play"
-weight: 17
+weight: 220
 slug: "set-play"
 aliases:
   - "/uwh-beginner-guide/set-play"

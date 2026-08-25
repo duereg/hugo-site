@@ -1,6 +1,6 @@
 ---
 title: "Equipment"
-weight: 3
+weight: 50
 slug: "equipment"
 aliases:
   - "/uwh-beginner-guide/equipment"
