@@ -7,8 +7,6 @@ comments: false
 ---
 Play stops; the refs set a restart. Figure out which one you are in, where you may stand, and when you can move.
 
-[Atlantis — Protocols](https://wiki.atlantissports.org/game/protocols). [CMAS Vol. 2](https://www.cmas.org/document?sessionId=&fileId=5287&language=1).
-
 ## Where the puck goes
 
 Restarts sit inside the **five-and-two** area: at least 5 m from the end walls and 2 m from the sides. Foul outside that box? Puck moves to the nearest edge.
@@ -88,3 +86,7 @@ Warnings come first for habits the ref keeps seeing. Ignore the warning and expe
 ## Substitutions
 
 Mid-game subbing: [Subbing Out]({{< ref "10-subbing.md" >}}). [Atlantis — Substitutions](https://wiki.atlantissports.org/game/protocols/substitutions).
+
+## Further Reading
+
+[Atlantis — Protocols](https://wiki.atlantissports.org/game/protocols). [CMAS Vol. 2](https://www.cmas.org/document?sessionId=&fileId=5287&language=1).

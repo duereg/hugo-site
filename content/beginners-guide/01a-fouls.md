@@ -11,8 +11,6 @@ Refs often play **advantage**: if the foul did not help the offending team, the 
 
 Unclear call? Ask the ref after the game.
 
-[CMAS Vol. 2 — Rules of Play](https://www.cmas.org/document?sessionId=&fileId=5287&language=1). [Atlantis Sports — Fouls](https://wiki.atlantissports.org/game/fouls).
-
 ## Stick and puck
 
 **Illegal advancement.** Moving the puck with anything other than the playing surface of your stick. “Gloving” is the usual one. An accidental brush that does not help you is rarely called.
@@ -56,3 +54,9 @@ Incidental contact while both race for the puck is normal. Body-first contact th
 ## After a foul
 
 Play stops unless advantage is waved. The ref signals the foul and sets a restart: equal puck, advantage puck, or a time penalty. [Restarts and Protocols]({{< ref "08a-restarts.md" >}}).
+
+## Further reading
+
+[CMAS Vol. 2 — Rules of Play](https://www.cmas.org/document?sessionId=&fileId=5287&language=1).
+
+[Atlantis Sports — Fouls](https://wiki.atlantissports.org/game/fouls).

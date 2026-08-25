@@ -57,4 +57,6 @@ Between points, your replacement can leave without you in the box; still call th
 
 Winded, heavy legs, cannot get a breath, or overmatched? Sub. That is the job of the bench.
 
+## Further Reading
+
 [Atlantis — Substitutions](https://wiki.atlantissports.org/game/protocols/substitutions).

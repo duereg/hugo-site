@@ -40,4 +40,8 @@ Clubs usually loan sticks, masks, snorkels, gloves, and caps at first. Bring wha
 - **Hands on the puck.** Stick only.
 - **Two Hands on the Stick.** Sticks are one handed, two hands is a foul
 
-[Atlantis — First session](https://wiki.atlantissports.org/getting-started/new-player/First-session). [Beginner mistakes](https://wiki.atlantissports.org/getting-started/new-player/Beginner-mistakes).
+## Further reading
+
+[Atlantis — First session](https://wiki.atlantissports.org/getting-started/new-player/First-session).
+
+[Beginner mistakes](https://wiki.atlantissports.org/getting-started/new-player/Beginner-mistakes).

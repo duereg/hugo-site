@@ -118,6 +118,7 @@ In this case, it’s a toss-up. They both are in good position, both right on to
 {{< youtube cZb2Hkg8dQs >}}
 
 Curling is one of the most basic and most important skills to a player. Curling is basically a tight, focused turn that results in a radical change in direction while maintaining possession of the puck. The direction change can be 180 degrees, 270 degrees, or a full 360 degree turn.  Curling is a valuable move to keep the puck moving in a crowd of players yet allows the person with the puck to keep possession. By curling you can keep the puck shielded from other players while still moving to elude them. One of the things that all players need to be reminded about is to kick through their curls.  What “Kick through Your Curls” means is that once you start curling, you should not stop half way through your curl. Begin and end your curl with authority. Swim hard into them, and then explode out of them. A player who stops moving while committing a curl is a target on the bottom on the bottom. A player should never simply sit on the bottom in the curled position and wait for something to happen to them. It is worthwhile to practice different curling drills in order to improve your form and efficiency, particularly on reverse curls.  A standard curling relay drill involving three players is done as follows.  Two of the players start on a wall and the third starts about 5 lanes down the pool. One of the players on the wall carries the puck executing four 360 degree curls on one breath as they swim to the player 5 lanes down the pool. They then pass the puck to the player five lanes down the pool. He then swims back towards the wall, executing the same four curls, and passes the puck off.  Alternate the directions of the curls: forward, reverse, forward, reverse.
+
 ![CurlingDrill](/beginners-guide/CurlingDrill.gif)
 
 Pattern to follow for the curling drill.
@@ -151,7 +152,7 @@ Distance will come if you can become effective at getting the puck off the pool 
 
 ## Feints and Deeks
 
-Rather than going through a lengthy, text-based description of each one of these, I'm just going to show videos. Mastering any one move is great and will improve your game tremendously -- mastering and chaining many of them underwater is what great players do. (Note that there doesn't appear to be standard, widely accepted terms for these; each country, sometimes each club, uses different names.)
+Rather than going through a lengthy, text-based description of each one of these, I'm just going to show videos. Mastering any one move is great and will improve your game tremendously - mastering and chaining many of them underwater is what great players do.
 
 ### Standard Deek
 
