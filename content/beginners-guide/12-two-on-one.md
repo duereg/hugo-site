@@ -9,7 +9,7 @@ comments: false
 ---
 Stolen from a piece written by Kendall Banks, with additions from Missy Kehoe._
 
-Offense numbers-up finish. Winning a contested puck 2-on-1 is a [pinch]({{< ref "11a-teamwork-basics.md" >}}).
+For winning a contested puck 2-on-1, see [Pinches]({{< ref "07a-pinches.md" >}}).
 
 The basic play is this: one player swims with the puck to a certain point and then passes to the other who scores. Sounds simple. But what is the best way to go about it and how do you increase your chances of scoring? There is no one answer but here are some ideas that might help.
 

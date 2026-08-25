@@ -87,4 +87,4 @@ Warnings come first for habits the ref keeps seeing. Ignore the warning and expe
 
 ## Substitutions
 
-Mid-game subbing has its own procedure. See [Subbing Out]({{< ref "10-subbing.md" >}}) and [Atlantis — Substitutions](https://wiki.atlantissports.org/game/protocols/substitutions).
+Mid-game subbing: [Subbing Out]({{< ref "10-subbing.md" >}}). [Atlantis — Substitutions](https://wiki.atlantissports.org/game/protocols/substitutions).

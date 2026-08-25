@@ -5,11 +5,11 @@ slug: "fouls"
 type: "beginners-guide"
 comments: false
 ---
-[Rules]({{< ref "01-rules.md" >}}) is the short list. Here are the foul names you will hear, and what they look like underwater.
+[Rules]({{< ref "01-rules.md" >}}) is the short list. Foul names you will hear, and what they look like underwater:
 
 Refs often play **advantage**: if the foul did not help the offending team, play continues. Unclear call? Ask the ref after the game.
 
-Official wording: [CMAS Vol. 2 — Rules of Play](https://www.cmas.org/document?sessionId=&fileId=5287&language=1). Longer write-ups: [Atlantis Sports — Fouls](https://wiki.atlantissports.org/game/fouls).
+[CMAS Vol. 2 — Rules of Play](https://www.cmas.org/document?sessionId=&fileId=5287&language=1). [Atlantis Sports — Fouls](https://wiki.atlantissports.org/game/fouls).
 
 ## Stick and puck
 
@@ -53,4 +53,4 @@ Incidental contact while both race for the puck is normal. Body-first contact th
 
 ## After a foul
 
-Play stops unless advantage is waved. The ref signals the foul and sets a restart: equal puck, advantage puck, or a time penalty. Setup rules: [Restarts and Protocols]({{< ref "08a-restarts.md" >}}).
+Play stops unless advantage is waved. The ref signals the foul and sets a restart: equal puck, advantage puck, or a time penalty. [Restarts and Protocols]({{< ref "08a-restarts.md" >}}).

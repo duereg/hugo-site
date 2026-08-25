@@ -16,4 +16,4 @@ This divide occurs partly due to fitness but some of it is mental. I know it is 
 
 The elimination of gaps between the forwards and backs is crucial in a high level game.
 
-Side-to-side movement into space (deep or lateral) is a **swing** — see [Teamwork Basics]({{< ref "11a-teamwork-basics.md" >}}).
+Side-to-side into open space: [Swings]({{< ref "11a-teamwork-basics.md" >}}).

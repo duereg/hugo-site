@@ -7,7 +7,7 @@ aliases:
 type: "beginners-guide"
 comments: false
 ---
-A goal counts when the puck fully enters the goal trough and touches the back or the bottom of that volume. Goal dimensions and trough basics: [Equipment]({{< ref "02-equipment.md" >}}).
+A goal counts when the puck fully enters the goal trough and touches the back or the bottom of that volume. [Equipment]({{< ref "02-equipment.md" >}}).
 
 The following shots would be considered a goal.
 
@@ -29,4 +29,4 @@ Defenders will put as many bodies down as they can. Match that with offensive pl
 
 Keep possession even when the first shove does not go in; a lost puck in front of their goal is how breakaway goals start the other way.
 
-How forwards and backs sit on attack and defense: [Scenario Alignment]({{< ref "08-positioning-by-scenario.md" >}}).
+[Scenario Alignment]({{< ref "08-positioning-by-scenario.md" >}}).

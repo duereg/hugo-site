@@ -55,6 +55,6 @@ About 1.3 kg (~3 lb), ~80 mm across and ~30 mm tall, bright coating so you can s
 
 ## Goals
 
-3 m troughs on the bottom against each end wall. About 180 mm high at the back, about 120 mm deep front to back. A goal counts when the puck fully enters that volume and touches the back or bottom of the trough. Diagrams: [Scoring a Goal]({{< ref "09-scoring.md" >}}).
+3 m troughs on the bottom against each end wall. About 180 mm high at the back, about 120 mm deep front to back. A goal counts when the puck fully enters that volume and touches the back or bottom of the trough. [Scoring a Goal]({{< ref "09-scoring.md" >}}).
 
-More gear detail: [Atlantis — Gear / Setup](https://wiki.atlantissports.org/game/gear-setup). Court and rules: [CMAS Vol. 1](https://www.cmas.org/document?sessionId=&fileId=5288&language=1), [Vol. 2](https://www.cmas.org/document?sessionId=&fileId=5287&language=1).
+[Atlantis — Gear / Setup](https://wiki.atlantissports.org/game/gear-setup). [CMAS Vol. 1](https://www.cmas.org/document?sessionId=&fileId=5288&language=1), [Vol. 2](https://www.cmas.org/document?sessionId=&fileId=5287&language=1).

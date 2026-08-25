@@ -29,7 +29,7 @@ Pain, fullness that lingers, dizziness, or nausea after a dive: get out and tell
 Game drops are short. You do not need a long hold to play well.
 
 - Surface as soon as you want air.
-- Breathe calm and steady before a dive. Frantic panting make the next drop worse.
+- Breathe calm and steady before a dive. Frantic panting makes the next drop worse.
 - Do not hyperventilate before going under.
 
 ## Head impacts
@@ -40,8 +40,8 @@ If you experience headache, dizziness, nausea, confusion, or vision problems aft
 
 ## Injuries and near misses
 
-Tell a coach. Early stop beats a worse injury. Near misses matter too; the club can fix hazards before someone gets hurt.
+Tell a coach. Early stop beats a worse injury.
 
 ## Further reading
 
-[Atlantis Sports Safety](https://wiki.atlantissports.org/Safety) and [Water skills](https://wiki.atlantissports.org/getting-started/new-player/water-skills) cover mask clearing, snorkel recovery, and related habits in more detail.
+[Atlantis Sports Safety](https://wiki.atlantissports.org/Safety). [Water skills](https://wiki.atlantissports.org/getting-started/new-player/water-skills) (mask clearing, snorkel recovery).

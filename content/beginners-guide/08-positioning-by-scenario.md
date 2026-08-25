@@ -36,7 +36,7 @@ In the 3rd panel, the back that was originally down to take the pass instead dea
 
 ### Forwards
 
-The forward's job when the other team has the puck is to backpick the other's teams curls and to stop the puck from swinging from one side of the pool to the other. The weakside forward's job is to intercept any passes that swing into their area, and either drive the puck back to the wall (safest) or drive to the other team's goal (risky, but can be very effective if the other team is out of position trying to score).
+The forward's job when the other team has the puck is to [pinch]({{< ref "07a-pinches.md" >}}) the other team's curls and to stop the puck from [swinging]({{< ref "11a-teamwork-basics.md" >}}) from one side of the pool to the other. The weakside forward's job is to intercept any passes that swing into their area, and either drive the puck back to the wall (safest) or drive to the other team's goal (risky, but can be very effective if the other team is out of position trying to score).
 
 In the bottom left diagram, the right (weakside) forward’s job is to contain the puck on the left side of the play, making sure it does not swing in front of the goal.
 
