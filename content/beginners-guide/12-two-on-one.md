@@ -13,7 +13,7 @@ The basic play is this: one player swims with the puck to a certain point and th
 
 Is it best to pass around the Defender's Swat Zone (the area in which a defender can knock down your pass, or DSZ) or through it?
 
-![Missing Diagram uwh-1-1-a](/beginners-guide/uwh-1-1-a.PNG)
+![Two-on-one: pass through the DSZ](/beginners-guide/uwh-1-1-a.PNG)
 
 You might have the opportunity to go around the DSZ early or with a really wide pass, but either of these options will mainly buy time for the defenders help to arrive. If it really is a two on one let's take our chances on going to the goal, not just maintaining possession until the numbers even back up. In a two on one against the last man the most productive play is generally through the DSZ.
 
@@ -21,7 +21,7 @@ Given that you have decided to attempt going through the DSZ then you want the p
 
 ## (As the Receiver) Reduce the DSZ by Positioning your Body
 
-![Missing Diagram uwh-1-1-b](/beginners-guide/uwh-1-1-b.PNG)
+![Two-on-one: receiver seals the DSZ](/beginners-guide/uwh-1-1-b.PNG)
 
 The defender will usually want to move their stick backwards once the puck is released. The positioning of the receiver's body can prevent the defender from doing so. Don't "go out for a pass". Coming down from mid-water, position your body as close to the defender's stick as possible to take away a large part of their DSZ with your body. Also, have your stick ready to battle for the puck in the event that the defender does connect when they swat at it. Use your body to seal off the defender’s access to the puck. If the puck goes by the defender’s stick by an inch or by ten feet, it is your puck. If the puck hits the defender’s stick and drops straight down you still have a good chance of retrieving it (if you are in good position). If the defender hits it a little bit in front you still have a shot at it. If it just gets past the wall of your body, it's yours. Then maintain with your body and legs your relative positional advantage while kicking to the goal.
 

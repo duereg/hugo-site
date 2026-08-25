@@ -1,2 +1,4 @@
 public
 node_modules
+scripts/uwh-guide-migration/.venv/
+scripts/uwh-guide-migration/wayback/

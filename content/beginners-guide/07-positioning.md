@@ -43,12 +43,13 @@ As the puck shifts to the side walls, this will mean that the weakside (non-side
 
 An illustration of bad positioning and good positioning is below.
 
-**An example of bad positioning **
+**An example of bad positioning**
 ![Bad Pass Positioning](/beginners-guide/BadPass2.gif)
 
 Examine the two diagrams on the left. In the 1st diagram, the left and center forwards are shoulder to shoulder waiting for a pass. Their teammate with the puck, the Left Back, could pass to one of them, but there is a defender behind them. The defender is effectively defending both players. Bad situation for the passer.
 
-[MISSING DIAGRAM: GOOD POSITIONING]
+**An example of good positioning**
+![Good Pass Positioning](/beginners-guide/GoodPassing2.gif)
 
 In the 2nd diagram, the forwards are at good spacing from each other and the puck. The Left Back sees the defender behind the Left Forward, but no one is covering the center forward. An easy pass, and the center forward is off to the races.
 
@@ -73,15 +74,15 @@ Notice that there are at least two forwards on the bottom at all times. Forwards
 When the other team has the puck, it's the forward’s job to backpick (steal) the puck when it is in their zone. The forward should go down when their back stops the opponent with the puck, sandwich the opponent, and make sure they have no where to go. Rip the puck off their stick, and watch for your back to knock the puck out and over to you.
 An example of a back-picking scenario, occurring near the left wall:
 
-[BAD DOWNLOAD - NEED TO RETRY]
 ![backpick1](/beginners-guide/backpick1.png)
 
 A white forward, close by the play, is closing in on the play in an attempt to back pick.
 
-[BAD DOWNLOAD - NEED TO RETRY]
 ![backpick2](/beginners-guide/backpick2.png)
 
 The keys for the white forward is that they are low to the bottom of the pool, anticipate the curl of the black player, and are position to defend the puck once they steal it. As soon as the black player with the puck begins their turn, the white forward steals the puck. As the puck is being stolen, the white player makes sure to get their body in between the black player and the puck. This prevents the black player from re-stealing the puck.
+
+![backpick3](/beginners-guide/backpick3.png)
 
 [Content on Weakside Containment Information Needed Here]
 

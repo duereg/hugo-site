@@ -19,6 +19,8 @@ One player has the puck, 1st defender approaches, 2nd offensive player goes for 
 
 This is no good. The second defender can easily read the play from beginning to end. If that is all we can do, then we are better off tightening up the play and going back to a semi-controlled furball attack. Which is the right decision, much of the time. Trying to open the game when the odds are that the other team will likely gain possession, and you have no shot to score, doesn't make sense.
 
+![Predictable two-on-two — defenders read the pass](/beginners-guide/uwh-2-2a.PNG)
+
 When do we try to open it up with a two on two? What do you look for?
 
 **Look for the opportunity to make the first pass early.**
@@ -28,6 +30,8 @@ You're not trying to beat the 1st defender, you're trying to force or tempt the 
 **Look for the opportunity to swim directly at the 2nd defender.**
 
 If you make a sharp turn early, away from the 1st defender and directly at the 2nd defender you may end up with both of them committing to you. This may seem counter-intuitive as you will probably also be heading in the direction of your teammate who is probably trying to get some spacing between you. Let your teammate worry about that. If you can get two defenders on you, your teammate should be able to find an open hole.
+
+![Swim at the second defender to draw both](/beginners-guide/uwh-2-2b.PNG)
 
 **Look for the opportunity to "burn" (get past) the 1 st defender.**
 
@@ -43,4 +47,4 @@ If you can do exactly what the defender is not anticipating, you have them half 
 
 What you need to figure out is how we are all going to know when an attempt at an open style play is over. When is it time to tighten it back up? Maybe just as simple as one open play at a time. If it works, great, if not, tighten it up _pronto_. Keep it tight until there is a decent looking opportunity to try another open play.
 
-*Note: Diagrams `uwh-2-2a.PNG` / `uwh-2-2b.PNG` were not in the PDF source manual (which predates those website illustrations) and remain unavailable.*
+*Diagrams recreated from chapter text (originals unavailable from Wayback).*
