@@ -15,3 +15,5 @@ The other case is when the other team gets a breakaway. The forwards hang back, 
 This divide occurs partly due to fitness but some of it is mental. I know it is difficult for a forward to have a big breakaway, then have to go right back to playing defense. (Especially if the other team has swam several zones away). It can be demotivating but everyone needs to get past this and force him or herself to get back into the action as quickly as possible. If you're completely spent, sub out.
 
 The elimination of gaps between the forwards and backs is crucial in a high level game.
+
+Side-to-side movement into space (deep or lateral) is a **swing** — see [Teamwork Basics]({{< ref "11a-teamwork-basics.md" >}}).
