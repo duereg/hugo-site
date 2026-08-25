@@ -10,6 +10,7 @@ I originally wrote this back in the mid 2000's as a personal reference to figure
 - [What is Underwater Hockey?]({{< ref "00-what-is-it.md" >}})
 - [Safety]({{< ref "00a-safety.md" >}})
 - [Rules]({{< ref "01-rules.md" >}})
+- [Fouls]({{< ref "01a-fouls.md" >}})
 - [Equipment]({{< ref "02-equipment.md" >}})
 - [Fitness]({{< ref "03-skills.md" >}})
 - [Puck Handling]({{< ref "03a-puck-handling.md" >}})

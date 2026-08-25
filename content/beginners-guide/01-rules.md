@@ -44,3 +44,5 @@ In General:
 
     * you cannot prevent another player from gaining possession of the puck
     * you cannot hide the puck with your body so an opponent cannot find it
+
+For foul names, what they look like, and what the ref does next, see [Fouls]({{< ref "01a-fouls.md" >}}).
