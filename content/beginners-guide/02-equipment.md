@@ -11,11 +11,19 @@ Taken from the International Rules for Underwater Hockey, 8th Edition: “Each p
 
 ## Mask
 
-The mask must be a dual lens mask unless it has a center divider/support that is part of the frame of the mask. You want a low volume mask, both for visibility and to decrease the chance of it flooding if it gets bumped. A low volume mask also will provide less drag underwater, increasing your speed.
+The mask must be a dual lens mask unless it has a center divider/support that is part of the frame of the mask (or a legal monolithic plastic frame). You want a low volume mask, both for visibility and to decrease the chance of it flooding if it gets bumped. A low volume mask also will provide less drag underwater, increasing your speed.
 
 ##  Snorkel
 
 The most important thing is to get a snorkel with a soft mouthpiece so it doesn't hurt your teeth if it gets hit. Purges are fine; just make sure they are soft purges. Don't spend too much money on the snorkel as most players end up cutting the top 2-3" off of the snorkel to reduce the drag and make it easier to clear. Some of the really cheaper snorkels from Sports Authority and similar places are too constricted for hockey. Make sure you can fit your thumb into the top of the snorkel; otherwise the opening is too small. Make sure that the inside of the snorkel is uniform and doesn't have a connector that constricts where the two parts join. Another good idea would be to get a snorkel with a slender profile to reduce drag and vibration.
+
+## Mouthguard
+
+Most clubs and tournaments require a mouthguard on the snorkel. It sits over your mouth and takes the hit if a stick, fin, or puck finds your face. Soft snorkel mouthpiece plus firm mouthguard is the usual setup.
+
+## Caps
+
+Water polo caps with firm ear protectors are required. Cap color matches stick color in games (black or white). Refs use the number for fouls and goals. Clubs often loan caps to new players.
 
 ## Glove
 
@@ -40,3 +48,13 @@ Sticks are one-handed, and have a handiness (so they're either lefties or righti
 There are several companies where you can buy sticks from. You can (if you're crafty) make your own. However, if you want a consistent, reliable stick, purchasing sticks is definitely the way to go.
 
 ![Underwater Hockey Sticks](/beginners-guide/sticks.webp)
+
+## Puck
+
+About 1.3 kg (~3 lb), ~80 mm across and ~30 mm tall, bright coating so you can see it on the bottom. Top and bottom often have plastic or metal sliders. Heavier than it looks until you get used to it.
+
+## Goals
+
+3 m troughs on the bottom against each end wall. About 180 mm high at the back, about 120 mm deep front to back. A goal counts when the puck fully enters that volume and touches the back or bottom of the trough. Diagrams: [Scoring a Goal]({{< ref "09-scoring.md" >}}).
+
+More gear detail: [Atlantis — Gear / Setup](https://wiki.atlantissports.org/game/gear-setup). Court and rules: [CMAS Vol. 1](https://www.cmas.org/document?sessionId=&fileId=5288&language=1), [Vol. 2](https://www.cmas.org/document?sessionId=&fileId=5287&language=1).
