@@ -53,4 +53,4 @@ Incidental contact while both race for the puck is normal. Body-first contact th
 
 ## After a foul
 
-Play stops unless advantage is waved. The ref signals the foul and sets a restart: equal puck, advantage puck, or a time penalty.
+Play stops unless advantage is waved. The ref signals the foul and sets a restart: equal puck, advantage puck, or a time penalty. Setup rules: [Restarts and Protocols]({{< ref "08a-restarts.md" >}}).

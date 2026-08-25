@@ -21,6 +21,7 @@ I originally wrote this back in the mid 2000's as a personal reference to figure
 - [Forward Defensive Responsibilities]({{< ref "07a-forward-defense.md" >}})
 - [Backs in the 3-3]({{< ref "07b-backs-in-the-3-3.md" >}})
 - [Scenario Alignment In The 3-3 Formation]({{< ref "08-positioning-by-scenario.md" >}})
+- [Restarts and Protocols]({{< ref "08a-restarts.md" >}})
 - [Scoring a Goal]({{< ref "09-scoring.md" >}})
 - [Subbing Out]({{< ref "10-subbing.md" >}})
 - [Cycling and Breakaways]({{< ref "11-cycling-breakaways.md" >}})
