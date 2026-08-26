@@ -13,9 +13,9 @@ A simple summary of the rules:
 
   * No body contact unless your stick is on the puck
 
-    * no fore-checking
+    * no shoving or pushing other player
 
-    * no moving screens
+    * no moving picks
 
   * Your stick, and only your stick, can touch the puck
 
