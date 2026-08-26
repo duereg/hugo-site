@@ -1,0 +1,96 @@
+Playbook Draft for 2018 v2 - Drive File Comments
+
+acreedon
+
+Aug 29, 2016, 6:13:31 PM
+Selected text:
+Inside and Openside
+Can we move the openside forward and back back
+
+
+Vincent Kiernan
+
+Aug 25, 2016, 9:11:58 PM(edited: Aug 29, 2016, 6:15:30 PM)
+Selected text:
+It’s important to note two things
+It is the pivot that decides whether we change direction. If the Openside forward drops it to the back, the back needs to continue to go wide to spread the other team out.
+The swing has to read the play and make sure that he sees where the puck is going and is there to cover. The inside back is going to be in an aggressive position and it’s the swing’s job to cover the play.
+
+
+All though in principle this is a really good idea-- practically, it isn't. I think it's okay at this point to keep this written the way it is but once the team gets reduced in size, we have to seriously consider letting the swing take just as much ownership over this.
+
+Gregory Appling
+Can you give me a little more information about what it isn't. IF you can't write it all here, send me an e-mail. The ownership of the swing in this for me is he's the support if the back get's it and heads across pool. Am I missing something?
+Aug 26, 2016, 2:52:27 AM
+
+Vincent Kiernan
+So, this slide almost exclusively talks about how we change directions as a unit. It's states that the pivot is the one that decides whether we change directions or not. 60~80% of the time, this is the case-- hence my recommendation to leave it the way it's written. However, in practice, the swing is the one who probably has the best vision at any given time... it might be a good idea to let that player switch directions just as freely.
+
+All that being said, I understand why it's written this way and I'm okay with it staying the same. You said it yourself-- "the ownership of the swing in this... is [to be] the support..."
+Aug 29, 2016, 6:15:30 PM
+
+Vincent Kiernan
+
+Aug 25, 2016, 9:06:37 PM(edited: Aug 29, 2016, 5:57:03 PM)
+This is a good point in the document to start talking about positions and their specific roles.
+
+Gregory Appling
+So should I add a slide after this to include more of the flow information we are removing from slide 5?
+Aug 26, 2016, 2:53:56 AM
+
+Vincent Kiernan
+I think that desicion should be left to you or it can be brought up during the next meeting. It all depends on how all-encompassing you want this document to be. 
+
+Another idea: You referenced the "Position documents" as a reference-- Can we verify that all that information is on that document and leave it at that?
+Aug 29, 2016, 5:57:03 PM
+
+Vincent Kiernan
+
+Aug 25, 2016, 9:01:51 PM
+Biggest comment for this page was to find a way to indicate a "lay back" pass.
+
+
+Vincent Kiernan
+
+Aug 25, 2016, 9:00:54 PM
+There was discussion around restricting the directions in which the wings can swim. I personally think this slide serves it's purpose. There will be times when it makes sense to break the rules and I think Gregory has always done a good job of pointing this out.
+
+
+Vincent Kiernan
+
+Aug 25, 2016, 8:28:06 PM(edited: Aug 29, 2016, 5:53:10 PM)
+Selected text:
+Flow Style of Play
+This should be a basic description of what the Flow Style of Play is. By the third point we start talking about a lot of specifics. I think these details can be vetted out in the position breakdown document or added to a different page.
+
+We should keep this very basic for now. Eliminate the third bullet point.
+
+Gregory Appling
+Sounds good. Do I need to add a graphic?
+Aug 26, 2016, 2:56:34 AM
+
+Vincent Kiernan
+I don't think so. All the following graphics support this page just fine.
+Aug 29, 2016, 5:53:10 PM
+
+Vincent Kiernan
+
+Aug 25, 2016, 4:54:31 PM
+Selected text:
+Formation Basics
+I think this page works. Could be shortened a bit. I can help with this.
+
+
+Vincent Kiernan
+
+Aug 25, 2016, 4:52:32 PM(edited: Aug 26, 2016, 2:55:58 AM)
+Selected text:
+Player positions
+GENERAL QUESTIONS/COMMENTS:
+Should the formation/placement of these players be closer to what is actually expected?
+
+Should a legend be provided on all these images? red line means swim, yellow line means pass?
+
+Gregory Appling
+yes on both. I'm going to make the "big" change and drop the 2-1-2-1 part like we discussed on the call. That would move the pivot forward more. I think on slide 4 is where I need to add names as well to show "game position"
+Aug 26, 2016, 2:55:58 AM

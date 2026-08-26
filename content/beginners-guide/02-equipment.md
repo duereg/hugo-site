@@ -29,7 +29,7 @@ Water polo caps with firm ear protectors are required. Cap color matches stick c
 
 Hand protection must not contain rigid or sharp reinforcing material. Gloves used for hand protection may not have webbing between fingers, or be of any design that would aid in swimming. Other than that, glove design is pretty flexible. You can make your own glove, or you can buy a glove from a bunch of different places. Most gloves are cloth layered with silicon rubber, but some people use nothing but electrical tape and other similar materials to create custom, lightweight gloves.
 
-![Example glove](/beginners-guide/glove.jpg)
+{{< image-compare original="/beginners-guide/original/equipment-glove.jpg" current="/beginners-guide/glove.jpg" >}}
 
 ## Fins
 
@@ -47,7 +47,7 @@ Sticks are one-handed, and have a handiness (so they're either lefties or righti
 
 There are several companies where you can buy sticks from. You can (if you're crafty) make your own. However, if you want a consistent, reliable stick, purchasing sticks is definitely the way to go.
 
-![Underwater Hockey Sticks](/beginners-guide/sticks.webp)
+{{< image-compare original="/beginners-guide/original/equipment-sticks.jpg" current="/beginners-guide/sticks.webp" >}}
 
 ## Puck
 

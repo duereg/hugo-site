@@ -1,0 +1,66 @@
+# Team Page Template
+
+- URL: https://wiki.atlantissports.org/team-page-template
+- Path: `team-page-template`
+
+¶ Description
+
+ADD A DESCRIPTION HERE, BE SURE TO INCLUDE:
+
+ 
+WHAT THE PLAYERS ARE SUPPOSED TO DO WITH THE PUCK OR TO GET THE PUCK
+
+ 
+WHAT THE OTHER PLAYERS ARE SUPPOSED TO DO TO SUPPORT EACHOTHER
+
+ 
+ANY FOULS THAT THE PLAYER(S) SHOULD LOOK TO AVOID
+
+¶ Demonstration Video
+
+Add demo video here (Eric or Tristan)
+
+¶ When and How to Use
+
+SITUATIONS/SURROUNDINGS THAT WOULD BE SUITABLE FOR A GIVEN MANEUVER:
+
+ 
+AWARENESS OF OTHER PLAYERS (TEAMMATES & OPPONENTS)
+ 
+DISTANCE/DIRECTION OF TEAMMATE(S)
+
+ 
+DISTANCE/DIRECTION OF OPPONENT(S)
+
+ 
+ 
+
+ 
+WHERE PLAY IS IN THE POOL
+
+¶ When not to Use and What to Watch Out For
+
+SITUATIONS/SURROUNDINGS THAT WOULD BE A BAD TIME TO USE THE MANEUVER
+
+¶ Real-life Example Video Clip
+
+Add real-life video here (Eric or Tristan)
+
+¶ Quick Reference
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+SKILL NAME
+
+ 
+ 
+NOTES (ALL CAPS FOR EASIER READING)
+
+ 
+KEEP THE CONTENT SHORT AND SWEET

@@ -39,7 +39,7 @@ Being able to control the puck on the front of the stick in any situation is a f
 
 The best way to practice front of the stick work is to do the Figure-8 drill shown in the diagram below.
 
-![FIGURE 8 DIAGRAM](/beginners-guide/eights.gif)
+{{< image-compare original="/beginners-guide/original/uwh-bg-figure8.png" current="/beginners-guide/eights.gif" originalCaption="Original (2014 guide)" currentCaption="Current site" >}}
 
 In the Figure-8 drill, you move the puck in front of your body, from side to side. When practicing this skill, exaggerate the puck movement by moving the puck from the right of your right shoulder all the way past your left shoulder. Don't rotate your torso in order to get the puck to the extreme left. Keep your shoulders square with the pool bottom. There are a few elements of the drill that are unfamiliar to many players.
 
@@ -67,7 +67,7 @@ Puck Rolling is the skill of ‘rolling’ the puck from the front of the stick 
 
 The simplest motion to practice is to roll the puck from side to side:
 
-![ROLLING PUCK DIAGRAM](/beginners-guide/rolling.gif)
+{{< image-compare original="/beginners-guide/original/uwh-bg-rolling.png" current="/beginners-guide/rolling.gif" >}}
 
 Important points to remember when doing this skill:
 
@@ -78,7 +78,7 @@ Practice this motion so that you can execute it quickly without looking at the p
 
 A more difficult drill is to execute a "V' with the puck in front of your body while spinning it continuously. The motion of the stick and puck are shown in the diagram.
 
-![ROLLING PUCK "V" DIAGRAM](/beginners-guide/rollingv.gif)
+{{< image-compare original="/beginners-guide/original/uwh-bg-rolling-v.png" current="/beginners-guide/rollingv.gif" >}}
 
 Important things to remember when doing this drill:
 
@@ -93,7 +93,7 @@ See a list of puck handling drills in this page: Training
 
 After mastering all the puck drills mentioned above, you should be able to swim with the puck on either the front or back of your stick, in front or behind your head, and on your left or right side. Moving the puck in relation to your opponents is vital to maintaining possession and advancing the puck. Let’s look at three examples where a player with the puck comes in contact with his opponent. In all three examples, assume both players are swimming at each other.
 
-![Body position vs opponent: BAD, BETTER, and BEST](/beginners-guide/body-position-bad-better-best.png)
+{{< image-compare original="/beginners-guide/original/uwh-bg-body-compare.png" current="/beginners-guide/body-position-bad-better-best.png" >}}
 
 In the first example, the player swims forward with his arm fully extended towards the opponent. There are very few cases when this is a good idea when going against an opponent. All you’re doing in limiting what you can do with the puck, and placing the puck closer to your opponent.
 
@@ -101,7 +101,7 @@ The second example, the player drops the puck back, and keeps going forward. Thi
 
 The third example, the player drops the puck completely behind their shoulder, keeping the puck on the front of the blade, and turns their body slightly to shield the puck. The opponent now has to go over the player to get to the puck, as it is not directly in front on then, and the player’s body is in the way of any direct action. Also, any of the moves that were available in the second example are available here. The player could bring the puck forward by extended his arm when the opponent gets close. The player could attempt to shoot over the opponent. The player could keep their body in between the opponent and the puck and keep swimming.  This third example is especially valuable on the wall.
 
-![Shielding the puck on the wall](/beginners-guide/body-position-wall.png)
+{{< image-compare original="/beginners-guide/original/uwh-bg-wall.png" current="/beginners-guide/body-position-wall.png" >}}
 
 The opponent cannot get to the puck from the right – the wall is in the way. If the player shields the puck from the front and left with their body, the only way the opponent can get to the puck is from the backside. The thing to learn from these examples is that you want to keep your body in between the puck and your opponent. If your opponent is on your left side, have the puck on your right. If your opponent is behind you, bring the puck in front of you.
 

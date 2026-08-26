@@ -1,0 +1,140 @@
+Pivot - Drive File Comments
+
+Matt Blair
+
+Apr 24, 2015, 12:39:08 AM(edited: Apr 24, 2015, 12:39:08 AM)
+Delete: “on your side”
+
+
+Matt Blair
+
+Apr 24, 2015, 12:38:49 AM(edited: Apr 24, 2015, 12:38:49 AM)
+Replace: “the” with “a”
+
+
+Matt Blair
+
+Apr 21, 2015, 9:31:31 PM(edited: Apr 24, 2015, 12:37:35 AM)
+Selected text:
+If you are on the wall look to advance the puck to a forward and get off the wall.
+Should the pivot ever be right on the wall? isn't that the outside forwards job?
+
+Gregory Appling
+Mostly my point is the get off the wall. So maybe it should read "if you are the wall, get off the wall"?
+Apr 22, 2015, 2:53:58 AM
+
+Matt Blair
+maybe, "If you end up on the wall, pass the puck to the closed side forward, and get off the wall?"
+Apr 24, 2015, 12:37:35 AM
+
+Matt Blair
+
+Apr 21, 2015, 9:30:59 PM(edited: Apr 24, 2015, 12:35:56 AM)
+Selected text:
+All of your help is around you.
+I sorta get what you mean by this, but remember this is for players who need very concise directions. I think you should be very specific here
+
+Gregory Appling
+Yeah I figured this one be the one that is to vague...... Maybe I should just remove it?
+Apr 22, 2015, 2:51:35 AM
+
+Matt Blair
+I would remove it, or change it to something concrete like, "if you need help, pass to the closed side of the formation"
+Apr 24, 2015, 12:35:56 AM
+
+Matt Blair
+
+Apr 21, 2015, 9:30:14 PM(edited: Apr 22, 2015, 2:49:54 AM)
+Selected text:
+Your first thought should be to score
+My first thought as the pivot is to pass, but maybe that's just me
+
+Gregory Appling
+Understand your point, but I do want him to think offensively. If I put that as the second option I think I'll lose some people with the concept.
+Apr 22, 2015, 2:48:31 AM(edited: Apr 22, 2015, 2:49:54 AM)
+
+Matt Blair
+
+Apr 21, 2015, 9:29:39 PM(edited: Apr 22, 2015, 2:56:01 AM)
+Selected text:
+When the back on your team on your side has the puck in front of you
+what do sides mean to the pivot? since he's in the middle, does he have a side?
+
+Gregory Appling
+I should delete the "on your side"
+Apr 22, 2015, 2:56:01 AM
+
+Matt Blair
+
+Apr 21, 2015, 9:28:57 PM(edited: Apr 22, 2015, 2:54:25 AM)
+Selected text:
+if the back is on your wall side, you should be onall the wall directly in front of the back
+won't the pivot get in the way of the strong side forward then? Should the center be close, but with enough space the strong side forward can drop directly on the wall?
+
+Gregory Appling
+I should delete this line, I think I meant to do that.
+Apr 22, 2015, 2:54:25 AM
+
+Matt Blair
+
+Apr 21, 2015, 9:28:15 PM(edited: Apr 24, 2015, 12:38:37 AM)
+Delete: “* if the back is on your wall side, you should be onall the wall directly in front of the back”
+
+
+Matt Blair
+
+Apr 21, 2015, 9:27:26 PM(edited: Apr 21, 2015, 9:27:38 PM)
+Add: “If t”
+
+Matt Blair
+Rejected suggestion
+
+Apr 21, 2015, 9:27:38 PM
+
+Matt Blair
+
+Apr 21, 2015, 9:27:06 PM(edited: Apr 24, 2015, 12:36:31 AM)
+Selected text:
+If you lose the puck, lose it in the center of the formation
+Does this make sense? If the pivot has the puck in the middle, and loses it in the middle, then no one can help him. 
+
+Maybe say lose the puck to closed side?
+
+Gregory Appling
+Maybe I should change this to pass the puck before you lose it?
+Apr 22, 2015, 2:50:46 AM
+
+Matt Blair
+Yeah, that makes sense. But pass the puck where? I think the default safe pass should be to the closed side.
+Apr 24, 2015, 12:36:31 AM
+
+Matt Blair
+Resolved
+Apr 21, 2015, 9:25:00 PM(edited: Apr 21, 2015, 9:30:41 PM)
+Selected text:
+you
+I sorta get what you mean by this, but remember this is for players who need very concise directions
+
+Matt Blair
+Marked as resolved
+
+Apr 21, 2015, 9:30:41 PM
+
+Matt Blair
+
+Apr 21, 2015, 9:24:13 PM(edited: Apr 24, 2015, 12:38:18 AM)
+Delete: “- You cannot swim outside of the wing forwards”
+
+Matt Blair
+this is duplicated above, hence the delete
+Apr 24, 2015, 12:38:08 AM(edited: Apr 24, 2015, 12:38:18 AM)
+
+Matt Blair
+
+Apr 21, 2015, 9:23:57 PM(edited: Apr 22, 2015, 2:47:23 AM)
+Delete: “m”
+
+Gregory Appling
+Accepted suggestion
+
+Apr 22, 2015, 2:47:23 AM
