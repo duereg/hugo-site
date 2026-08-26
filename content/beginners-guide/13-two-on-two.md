@@ -46,5 +46,3 @@ If you don't like what you see in front of you, take a quick look back. If the t
 If you can do exactly what the defender is not anticipating, you have them half beat. There are lots of ways of doing this. Some of the best can come from your own team's mistakes and chaos. If two of you are hustling and arrive at the puck together, rather than one player going up and the other player taking the puck, or one player taking the puck and the other splitting wide for a pass (both options can be easily anticipated) try swimming together until the first defender approaches and then making a slide pass to a give and go. Think of yourself as the 2nd defender. What would make you more nervous?
 
 What you need to figure out is how we are all going to know when an attempt at an open style play is over. When is it time to tighten it back up? Maybe just as simple as one open play at a time. If it works, great, if not, tighten it up _pronto_. Keep it tight until there is a decent looking opportunity to try another open play.
-
-*Diagrams recreated from chapter text (originals unavailable from Wayback).*
