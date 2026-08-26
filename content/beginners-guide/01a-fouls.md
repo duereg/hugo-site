@@ -5,9 +5,9 @@ slug: "fouls"
 type: "beginners-guide"
 comments: false
 ---
-[Rules]({{< ref "01-rules.md" >}}) is the short list. This is the more comprehensive list of fouls you will see, and what they look like underwater:
+[Rules]({{< ref "01-rules.md" >}}) is the short list. This is the more comprehensive list of fouls you will see, and what they look like underwater.
 
-Refs often play **advantage**: if the foul did not help the offending team, the refs do not stop play, and play continues.
+Refs often play **advantage**: if the foul did not help the offending team, the refs will not stop play, and play continues.
 
 Unclear call? Ask the ref after the game.
 
@@ -21,13 +21,13 @@ Unclear call? Ask the ref after the game.
 
 ## Free arm
 
-Your non-stick hand cannot push, pull, or grab an opponent or their stick. Bracing or supporting your stick with that hand while you have the puck is also a free-arm foul. Turning yourself without touching anyone is fine.
+Your non-stick hand cannot push, pull, or grab an opponent or their stick. Using two hands on your stick while you have the puck is also a foul.
 
 ## Obstruction
 
 Using your body to keep an opponent off the puck or off their path.
 
-- **Barging.** Swimming into someone with shoulder, head, or free arm. Common when the puck sits behind you and you plow into a set defender. If they stepped into your line, they may be at fault instead.
+- **Barging.** Swimming into someone with shoulder, head, or free arm. Common when the puck sits behind you and you plow into a set defender. If they swam into your path (a moving pick), they may be at fault instead.
 - **Blocking.** Parking in someone’s path so they cannot reach the puck after a flick or steal.
 - **Screening / shepherding.** Two teammates swim together; the one without the puck walls the opponent off. If you are the support player, leave space under or beside you.
 
