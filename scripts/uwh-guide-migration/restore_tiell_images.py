@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Copy tiell mirror assets into Hugo static/ and update priority placeholders."""
+"""Copy tiell mirror backpick assets into Hugo static/."""
 
 from __future__ import annotations
 
@@ -33,7 +33,6 @@ def copy(src: Path, dest: Path) -> None:
 
 
 def main() -> None:
-    # Priority: replace placeholders in place
     priority = [
         (find_one("_/rsrc/*/uwh-beginner-guide/positioning/backpick1*.png"), STATIC / "backpick1.png"),
         (find_one("_/rsrc/*/uwh-beginner-guide/positioning/backpick2*.png"), STATIC / "backpick2.png"),
@@ -44,12 +43,12 @@ def main() -> None:
         (find_one("_/rsrc/*/uwh-beginner-guide/2-2/uwh-2-2b.png"), STATIC / "uwh-2-2b.PNG"),
     ]
 
-    print("Priority restores:")
+    print("2014 guide restores:")
     for src, dest in priority:
         copy(src, dest)
 
-    # Side-by-side originals (keep current files)
-    originals = [
+    # Archive originals for reference (not linked from guide pages)
+    archive = [
         (find_one("_/rsrc/*/uwh-beginner-guide/scoring/uwh-scoring-a.png"), ORIGINAL / "uwh-scoring-a.png"),
         (find_one("_/rsrc/*/uwh-beginner-guide/scoring/uwh-scoring-b.png"), ORIGINAL / "uwh-scoring-b.png"),
         (find_one("_/rsrc/*/uwh-beginner-guide/skills/uwh-bg-01*.png"), ORIGINAL / "uwh-bg-figure8.png"),
@@ -61,8 +60,8 @@ def main() -> None:
         (find_one("_/rsrc/*/uwh-beginner-guide/equipment/image002.jpg"), ORIGINAL / "equipment-sticks.jpg"),
     ]
 
-    print("\nOriginals for compare:")
-    for src, dest in originals:
+    print("\nArchive copies (original/):")
+    for src, dest in archive:
         copy(src, dest)
 
 

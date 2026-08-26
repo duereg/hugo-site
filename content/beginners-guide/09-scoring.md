@@ -11,11 +11,11 @@ A goal counts when the puck fully enters the goal trough and touches the back or
 
 The following shots would be considered a goal.
 
-{{< image-compare original="/beginners-guide/original/uwh-scoring-a.png" current="/beginners-guide/img-038.png" >}}
+![Legal goals](/beginners-guide/img-038.png)
 
 The following shots would not be considered a goal.
 
-{{< image-compare original="/beginners-guide/original/uwh-scoring-b.png" current="/beginners-guide/img-039.png" >}}
+![Non-goals](/beginners-guide/img-039.png)
 
 ## No-goal
 

@@ -43,11 +43,11 @@ Full HTTrack backup of the live Google Sites guide (Mar 2023):
 ```bash
 cd /Users/matt/Projects/hugo-site
 python3 scripts/uwh-guide-migration/mirror_tiell_guide.py   # crawl → tiell-mirror/
-python3 scripts/uwh-guide-migration/restore_tiell_images.py  # priority + original/ copies
+python3 scripts/uwh-guide-migration/restore_tiell_images.py  # backpick placeholders only
 ```
 
-- **Priority restores** (replace placeholders): `backpick1–3`, `uwh-1-1-a/b`, `uwh-2-2a/b` → `static/beginners-guide/`
-- **Compare originals**: `static/beginners-guide/original/` — shown side-by-side with current assets via `{{< image-compare >}}` shortcode on scoring, puck-handling, and equipment pages
+- **Restored from mirror:** `backpick1–3.png`, `uwh-1-1-a/b`, `uwh-2-2a/b` (2014 guide originals)
+- Compare originals archived under `static/beginners-guide/original/` and in `tiell-mirror/`; not shown on pages
 
 Manifest: `tiell-mirror/MANIFEST.json`
 
