@@ -33,7 +33,7 @@ If you make a sharp turn early, away from the 1st defender and directly at the 2
 
 ![Swim at the second defender to draw both](/beginners-guide/uwh-2-2b.PNG)
 
-**Look for the opportunity to "burn" (get past) the 1 st defender.**
+**Look for the opportunity to "burn" (get past) the 1st defender.**
 
 If for some reason you believe you can take them (possibly because the pass is so obvious), then this is the time to try. Not when you have a 2 on 1, and simple execution should make a score. Not a 1 on 1, where the defender has pool to give and is set up to play you soft. Now, if you burn the defender, you'll have a surprised last man in a 2 on 1 situation.
 
