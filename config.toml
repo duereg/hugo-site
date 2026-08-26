@@ -128,6 +128,13 @@ disableLanguages        = []
     pre               = "<i class='fas fa-tag'></i>"
     weight            = 5
 
+  [[menu.main]]
+    name              = "Utilities"
+    identifier        = "utilities"
+    url               = "/utilities/"
+    pre               = "<i class='fas fa-toolbox'></i>"
+    weight            = 6
+
 [Languages]
 
   [Languages.en]

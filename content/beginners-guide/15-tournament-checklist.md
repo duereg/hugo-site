@@ -9,6 +9,8 @@ comments: false
 ---
 You've read this guide, you've been to a few practices, and now you're ready for your first tournament. Congratulations! Just make sure you've got the following items.
 
+Organizing an event? Use the [Tournament Scheduler](/utilities/tourney/) to estimate how long games will take and preview schedules.
+
 ## Indispensable
 
 Be a good team player and don't show up at a tournament without these.

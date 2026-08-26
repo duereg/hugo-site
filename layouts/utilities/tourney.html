@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <article class="post">
+    <header>
+      <div class="title">
+        <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+      </div>
+    </header>
+    <div class="content">
+      {{ partial "utilities-nav.html" . }}
+      {{ .Content }}
+      <link rel="stylesheet" href="{{ "/tourney/app.css" | relURL }}">
+      <div id="root"></div>
+      {{ partial "utilities-nav.html" . }}
+    </div>
+  </article>
+  <script type="module" src="{{ "/tourney/app.js" | relURL }}"></script>
+{{ end }}

@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <article>
+    <div class="post">
+      <header>
+        <div class="title">
+          <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+        </div>
+      </header>
+      <div class="content">
+        {{ partial "beginners-guide-nav.html" . }}
+        {{ .Content }}
+        {{ partial "beginners-guide-nav.html" . }}
+      </div>
+    </div>
+  </article>
+  <div class="pagination">
+    {{ with .NextInSection }}
+      <a href="{{ .RelPermalink }}" class="button left"><span>{{ .Title }}</span></a>
+    {{ end }}
+    {{ with .PrevInSection }}
+      <a href="{{ .RelPermalink }}" class="button right"><span>{{ .Title }}</span></a>
+    {{ end }}
+  </div>
+{{ end }}

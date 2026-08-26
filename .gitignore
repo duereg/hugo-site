@@ -1,4 +1,12 @@
 public
 node_modules
+static/tourney/app.js
+static/tourney/app.js.map
+static/tourney/app.css
+static/tourney/app.css.map
+static/swim-generator/app.js
+static/swim-generator/app.js.map
+static/swim-generator/app.css
+static/swim-generator/app.css.map
 scripts/uwh-guide-migration/.venv/
 scripts/uwh-guide-migration/wayback/
