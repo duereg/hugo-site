@@ -33,7 +33,7 @@ Hand protection must not contain rigid or sharp reinforcing material. Gloves use
 
 ## Fins
 
-If you are going to pick one area to spend the extra money and get quality gear this is it. There are lots of different makes and models of fins out there but many of them do not work for Underwater Hockey.  You definitely want to get full foot fins vs. the open heel scuba type. The short swimmer's fins and really long free diving fins are not good for underwater hockey.
+If you are going to pick one area to spend the extra money and get quality gear this is it. There are lots of different makes and models of fins out there but many of them do not work for Underwater Hockey.  You want to get full foot fins and avoid the adjustable scuba type (the buckles on those fins can cut other players). The short swimmer's fins and really long free diving fins are not good for underwater hockey.
 
 One factor that makes the purchasing decision more difficult is what your skill level is now and what it will be later. Similar to buying skis where you don't want to buy ones that are too long now but too short later as you get better, if you are new to fin swimming, you don't want to buy fins that are too stiff now or too soft later. Some beginners who have not mastered fin swimming buy fins that are too stiff for them and end up spending all their time and Oxygen struggling with fins as they try to get to the puck. On the other hand, excellent fin swimmers can be handicapped by the quality of their fins.
 
@@ -62,3 +62,7 @@ About 1.3 kg (~3 lb), ~80 mm across and ~30 mm tall, bright coating so you can s
 [Atlantis — Gear / Setup](https://wiki.atlantissports.org/game/gear-setup).
 
 [CMAS Vol. 1](https://www.cmas.org/document?sessionId=&fileId=5288&language=1), [Vol. 2](https://www.cmas.org/document?sessionId=&fileId=5287&language=1).
+
+[Hydro UWH Hockey Gear](https://hydrouwh.com/)
+
+[CanAM UWH Hockey Gear](https://www.canamuwhgear.com/)
