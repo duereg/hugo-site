@@ -25,7 +25,7 @@ The area the center forward is responsible for is in front of the puck within on
 
 The area the right forward is responsible for is in front of the puck, either directly to the right or directly in front of the puck, within one passing distance. Please note that the right forward has no responsibilities on the left side of the puck. The person playing right forward should try to stay on the right side of the puck and should avoid ending up on the left side of the puck.
 
-Please also note that all of the forwards have no responsibilities to the area between the puck and their goal - the defensive side of the puck. Though forwards have defensive responsibilities, a forward should always try to stay in front of the puck.
+When your team has the puck, forwards should try to stay in front of the puck and within passing distance. When the other team has the puck, forwards still have defensive jobs — chase, contain, and [pinch]({{< ref "07a-pinches.md" >}}) — which are covered on the [position responsibility pages]({{< ref "outside-forward.md" >}}) below.
 
 ## Spacing From The Puck
 
@@ -68,3 +68,10 @@ When the puck is in your area, you should be on the bottom ready to accept a pas
 Notice that there are at least two forwards on the bottom at all times. Forwards in the 3-3 formation play in pairs – one with the puck, the other getting in position to get the puck. When a forward passes to another, the forward who just had the puck should quickly get air, and if the puck is still in their area, get back down on the bottom. The exception to this is in front of the goal. If the puck is in front of the goal, is the highly important that all three forwards try to be on the bottom.
 
 [Content on Alternating Drops - CF w/ RF & LF - needed here]
+
+## Position responsibilities
+
+This page is about **where** forwards sit. These pages cover **what** to do in each role:
+
+- [Outside Forward]({{< ref "outside-forward.md" >}})
+- [Center Forward (Pivot)]({{< ref "center-forward.md" >}})

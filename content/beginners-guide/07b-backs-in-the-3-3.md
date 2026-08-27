@@ -33,7 +33,7 @@ If the strong side back loses the puck or comes up for air, the center back shou
 
 If the puck is keeping in relatively the same spot, the weak side back should be floating on the surface the whole time, watching for the puck to swing to his side, or watching for the time when someone beats both the strong and center back. Good cycling is vital to keeping possession and moving the puck forward.
 
-If the puck should swing from one side to the other, it’s the weak and center back’s responsibility to make sure the puck does not advance. In an ideal world, the weak back immediately goes to the bottom and swims into the play once the puck crosses to his side of the pool, the center goes in behind the weak back for support, and the strong back goes to the surface in the back of the formation. Now, the “weak” back has become the strong back, and the “strong” back has become the weak side back.
+If the puck should swing from one side to the other, it's the weak and center back's responsibility to make sure the puck does not advance. In an ideal world, the weak back immediately goes to the bottom and swims into the play once the puck crosses to his side of the pool, the center goes in behind the weak back for support, and the strong back goes to the surface in the back of the formation. Now, the "weak" back has become the strong back, and the "strong" back has become the weak side back.
 
 All of backs should be in a straight line between the puck, and the center of their own goal.
 
@@ -42,3 +42,10 @@ All of backs should be in a straight line between the puck, and the center of th
 If the strong side back looked back towards the center of their goal, they should see the swing back and weak side back in a perfect line towards the goal. Or, when the weak side back looks towards the strong side back, the swing back should be in a direct line between the two players.
 
 Why do you do this? If an opposing player gets past the a back on the way to the goal, the other two backs are directly behind the back who was beaten, in line with the goal to defend next.
+
+## Position responsibilities
+
+This page is about **where** backs line up and how the Seven cycles. These pages cover **what** to do in each role:
+
+- [Wing Back (Outside Back)]({{< ref "wing-back.md" >}})
+- [Swing Back (Center Back)]({{< ref "swing-back.md" >}})
