@@ -1,12 +1,12 @@
 import * as esbuild from 'esbuild';
 import { mkdirSync } from 'fs';
 
-mkdirSync('static/swim-generator', { recursive: true });
+mkdirSync('static/utilities/swim-generator', { recursive: true });
 
 await esbuild.build({
   entryPoints: ['assets/swim-generator/app.js'],
   bundle: true,
-  outfile: 'static/swim-generator/app.js',
+  outfile: 'static/utilities/swim-generator/app.js',
   format: 'esm',
   platform: 'browser',
   target: ['es2020'],
@@ -17,4 +17,4 @@ await esbuild.build({
   sourcemap: true,
 });
 
-console.log('Built static/swim-generator/app.js');
+console.log('Built static/utilities/swim-generator/app.js');

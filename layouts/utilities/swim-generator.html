@@ -9,10 +9,10 @@
     <div class="content">
       {{ partial "utilities-nav.html" . }}
       {{ .Content }}
-      <link rel="stylesheet" href="{{ "/swim-generator/app.css" | relURL }}">
+      <link rel="stylesheet" href="{{ "/utilities/swim-generator/app.css" | relURL }}">
       {{ partial "swim-generator-widget.html" . }}
       {{ partial "utilities-nav.html" . }}
     </div>
   </article>
-  <script type="module" src="{{ "/swim-generator/app.js" | relURL }}"></script>
+  <script type="module" src="{{ "/utilities/swim-generator/app.js" | relURL }}"></script>
 {{ end }}

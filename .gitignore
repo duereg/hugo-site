@@ -8,5 +8,9 @@ static/swim-generator/app.js
 static/swim-generator/app.js.map
 static/swim-generator/app.css
 static/swim-generator/app.css.map
+static/utilities/swim-generator/app.js
+static/utilities/swim-generator/app.js.map
+static/utilities/swim-generator/app.css
+static/utilities/swim-generator/app.css.map
 scripts/uwh-guide-migration/.venv/
 scripts/uwh-guide-migration/wayback/
