@@ -11,6 +11,8 @@ comments: false
 
 When training for hockey, there are a set of acronyms underwater hockey players use to describe their workouts. These acronyms are described below.
 
+If you're looking for workouts to do, try this [swim generator](/utilities/swim-generator/).
+
 ### **BOGDAT**
 (**_B_** reathe **_O_** nce **_G_** o **_D_** own **_A_** nd **_T_** ouch).
 
